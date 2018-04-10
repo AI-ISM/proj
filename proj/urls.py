@@ -15,9 +15,10 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from app.api import articles
+from app.api import article
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api/articles', articles.index),
+    path('api/article/index', article.index),
+    path('api/article/item/<int:article_id>', article.item),
 ]

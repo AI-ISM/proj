@@ -1,0 +1,537 @@
+{"feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "slick-uniqueid": "3",
+    "div": {
+      "a": {
+        "id": "slick_uniqueid"
+      }
+    },
+    "title": {
+      "type": "text",
+      "text": "博客园"
+    },
+    "id": " uuid:aa735cc1-b5ff-446e-bfd7-e3d445eb9a0e;id=508347 ",
+    "updated": "2018-04-10T11:30:55Z",
+    "link": {
+      "href": "http://www.cnblogs.com/"
+    },
+    "entry": [
+      {
+        "id": "8781609",
+        "title": {
+          "type": "text",
+          "text": "适配器设计模式"
+        },
+        "summary": {
+          "type": "text",
+          "text": " 什么是适配器假设我们当前有一个从日本买回的笔记本电脑但是我国的都是的电源如果我们想要使用还得买一个电源适配器把转换为的这个作为转换电源灯的适配器就是现在要说的适配器了适配器的种类|名称|具体|类适配器|使用 "
+        },
+        "published": "2018-04-10T19:00:00+08:00",
+        "updated": "2018-04-10T11:30:55Z",
+        "author": {
+          "name": "--dgw博客",
+          "uri": "http://www.cnblogs.com/dgwblog/",
+          "avatar": " http://pic.cnblogs.com/face/1160484/20171007161755.png "
+        },
+        "link": {
+          "rel": "alternate",
+          "href": "http://www.cnblogs.com/dgwblog/p/8781609.html"
+        },
+        "blogapp": "dgwblog",
+        "diggs": "0",
+        "views": "10",
+        "comments": "0"
+      },
+      {
+        "id": "8781596",
+        "title": {
+          "type": "text",
+          "text": "CTF中常见密码题解密网站总结"
+        },
+        "summary": {
+          "type": "text",
+          "text": "综合网站中包含大多编码的解码。文字倒序排列zz解"
+        },
+        "published": "2018-04-10T18:59:00+08:00",
+        "updated": "2018-04-10T11:30:55Z",
+        "author": {
+          "name": "Polar1dear",
+          "uri": "http://www.cnblogs.com/Polar1dear/"
+        },
+        "link": {
+          "rel": "alternate",
+          "href": "http://www.cnblogs.com/Polar1dear/p/8781596.html"
+        },
+        "blogapp": "Polar1dear",
+        "diggs": "0",
+        "views": "20",
+        "comments": "0"
+      },
+      {
+        "id": "8781305",
+        "title": {
+          "type": "text",
+          "text": "三十天学不会TCP,UDP/IP网络编程 -- RTT的计算"
+        },
+        "summary": {
+          "type": "text",
+          "text": " 欢迎去（z）看到完整版。如果对和程序员有关的计算机网络知识，和对计算机网络方面的编程有兴趣，虽然说现在这种“看不见”的东西真正能在实用中遇到的机会不多，但是我始终觉得无论计算机的语言，热点方向怎么变化，作为一个程序员， "
+        },
+        "published": "2018-04-10T18:19:00+08:00",
+        "updated": "2018-04-10T11:30:55Z",
+        "author": {
+          "name": "一心一怿",
+          "uri": "http://www.cnblogs.com/ZXYloveFR/",
+          "avatar": " http://pic.cnblogs.com/face/159614/20160628092409.png "
+        },
+        "link": {
+          "rel": "alternate",
+          "href": "http://www.cnblogs.com/ZXYloveFR/p/8781305.html"
+        },
+        "blogapp": "ZXYloveFR",
+        "diggs": "0",
+        "views": "30",
+        "comments": "0"
+      },
+      {
+        "id": "8781188",
+        "title": {
+          "type": "text",
+          "text": "使用nodeJS的 crypto模块来为你的密码hash加盐"
+        },
+        "summary": {
+          "type": "text",
+          "text": " 这篇文章将向你解释如何使用的y模块对你的密码进行加盐。在这里，我们将不会对不懂的密码存储方式进行详细的比较。我们将要做的是知道在中使用加盐在进行密码存储的机制。放心，这是最好的存储密码的方式，在没有出现其他更好的方法之前。这是什么技术加盐是这样一直技术：将用户输入的密码和一 "
+        },
+        "published": "2018-04-10T18:08:00+08:00",
+        "updated": "2018-04-10T11:30:55Z",
+        "author": {
+          "name": "TJ-进无止境",
+          "uri": "http://www.cnblogs.com/tianjinblog/"
+        },
+        "link": {
+          "rel": "alternate",
+          "href": "http://www.cnblogs.com/tianjinblog/p/8781188.html"
+        },
+        "blogapp": "tianjinblog",
+        "diggs": "0",
+        "views": "34",
+        "comments": "0"
+      },
+      {
+        "id": "8780375",
+        "title": {
+          "type": "text",
+          "text": "iOS 封装.framework 以及使用"
+        },
+        "summary": {
+          "type": "text",
+          "text": " 是什么？是什么？这个问题相信做的都知道答案。在我们的日常开发中，经常会用到各种已经封装好的库，比如支付宝、微信等等中的库，这些库可以给我们的开发带来很大的便利。有的时候，由于工作的需要，我们需要对自己的项目进行封装，生成库，方便别人的使用。在 "
+        },
+        "published": "2018-04-10T17:52:00+08:00",
+        "updated": "2018-04-10T11:30:55Z",
+        "author": {
+          "name": "Zxiao..旭",
+          "uri": "http://www.cnblogs.com/taoxu/",
+          "avatar": " http://pic.cnblogs.com/face/739006/20160530150513.png "
+        },
+        "link": {
+          "rel": "alternate",
+          "href": "http://www.cnblogs.com/taoxu/p/8780375.html"
+        },
+        "blogapp": "taoxu",
+        "diggs": "0",
+        "views": "55",
+        "comments": "0"
+      },
+      {
+        "id": "8780419",
+        "title": {
+          "type": "text",
+          "text": "数据结构与算法 —— 链表linked list(03)"
+        },
+        "summary": {
+          "type": "text",
+          "text": " 继续关于的算法题：删除排序链表中的重复元素给定一个排序链表，删除所有重复的元素使得每个元素只留下一个。案例：给定，返回给定，返回解题思路：这道题很简单，只需要比较当前节点和下一个节点，相同，则当 "
+        },
+        "published": "2018-04-10T17:49:00+08:00",
+        "updated": "2018-04-10T11:30:55Z",
+        "author": {
+          "name": "oldmanli",
+          "uri": "http://www.cnblogs.com/lip0121/",
+          "avatar": " http://pic.cnblogs.com/face/471231/20150530085507.png "
+        },
+        "link": {
+          "rel": "alternate",
+          "href": "http://www.cnblogs.com/lip0121/p/8780419.html"
+        },
+        "blogapp": "lip0121",
+        "diggs": "5",
+        "views": "115",
+        "comments": "0"
+      },
+      {
+        "id": "8779399",
+        "title": {
+          "type": "text",
+          "text": "ASP.NET CORE系列【一】搭建ASP.NET CORE项目"
+        },
+        "summary": {
+          "type": "text",
+          "text": " 为什么要使用？刚发布的时候根据介绍就有点心里痒痒，微软的尿性都懂的，新东西太多，现在也发布很久了，决定研究一下。官方文档 "
+        },
+        "published": "2018-04-10T17:48:00+08:00",
+        "updated": "2018-04-10T11:30:55Z",
+        "author": {
+          "name": "懂得。",
+          "uri": "http://www.cnblogs.com/shumin/",
+          "avatar": " http://pic.cnblogs.com/face/701283/20150818100949.png "
+        },
+        "link": {
+          "rel": "alternate",
+          "href": "http://www.cnblogs.com/shumin/p/8779399.html"
+        },
+        "blogapp": "shumin",
+        "diggs": "0",
+        "views": "88",
+        "comments": "0"
+      },
+      {
+        "id": "8780850",
+        "title": {
+          "type": "text",
+          "text": "Django之中间件"
+        },
+        "summary": {
+          "type": "text",
+          "text": " 中间件简介什么是中间件中间件是一个用来处理的请求和响应的框架级别的钩子。它是一个轻量、低级别的插件系统，用于在全局范围内改变的输入和输出。每个中间件组件都负责做一些特定的功能。说的直白一点中间件是帮助我们在视图函数执行之前和执行之后都可以做一些额外的操作，它本质上就是一 "
+        },
+        "published": "2018-04-10T17:45:00+08:00",
+        "updated": "2018-04-10T11:30:55Z",
+        "author": {
+          "name": "人生不如戏",
+          "uri": "http://www.cnblogs.com/fu-yong/",
+          "avatar": " http://pic.cnblogs.com/face/1299859/20171214171335.png "
+        },
+        "link": {
+          "rel": "alternate",
+          "href": "http://www.cnblogs.com/fu-yong/p/8780850.html"
+        },
+        "blogapp": "fu-yong",
+        "diggs": "0",
+        "views": "38",
+        "comments": "1"
+      },
+      {
+        "id": "8716485",
+        "title": {
+          "type": "text",
+          "text": "使用Java High Level REST Client操作elasticsearch"
+        },
+        "summary": {
+          "type": "text",
+          "text": " 高级别客户端（）以后简称高级客户端，内部仍然是基于低级客户端。它提供了更多的，接受请求对象作为参数并返回响应对象，由客户端自己处理编码和解码。每个都可以同步或异步调用。同步方法返回一个响应对象，而异步方法的 "
+        },
+        "published": "2018-04-10T17:31:00+08:00",
+        "updated": "2018-04-10T11:30:55Z",
+        "author": {
+          "name": "gnib",
+          "uri": "http://www.cnblogs.com/ginb/",
+          "avatar": " http://pic.cnblogs.com/face/612774/20150824213110.png "
+        },
+        "link": {
+          "rel": "alternate",
+          "href": "http://www.cnblogs.com/ginb/p/8716485.html"
+        },
+        "blogapp": "ginb",
+        "diggs": "1",
+        "views": "34",
+        "comments": "0"
+      },
+      {
+        "id": "4907570",
+        "title": {
+          "type": "text",
+          "text": "R语言学习 第九篇：plyr包"
+        },
+        "summary": {
+          "type": "text",
+          "text": " 在数据分析中，整理数据的本质可以归纳为：对数据进行分割（），然后应用（y）某些处理函数，最后将结果重新组合（）成所需的格式返回，简单描述为：y，各个步骤的作用是：：把要处理的数据分割成小片断，常用的函数是 "
+        },
+        "published": "2018-04-10T17:19:00+08:00",
+        "updated": "2018-04-10T11:30:55Z",
+        "author": {
+          "name": "悦光阴",
+          "uri": "http://www.cnblogs.com/ljhdo/",
+          "avatar": " http://pic.cnblogs.com/face/628084/20161110212829.png "
+        },
+        "link": {
+          "rel": "alternate",
+          "href": "http://www.cnblogs.com/ljhdo/p/4907570.html"
+        },
+        "blogapp": "ljhdo",
+        "diggs": "0",
+        "views": "112",
+        "comments": "0"
+      },
+      {
+        "id": "8780663",
+        "title": {
+          "type": "text",
+          "text": "Python进程"
+        },
+        "summary": {
+          "type": "text",
+          "text": " （先分享一个y在线编程的网站y）（本文为原创作品，欢迎转载转载请注明出处）一、概念进程说白了就是一段运行的程序，操作系统给这段正在运行的程序分配内存、、磁盘、资源等。系 "
+        },
+        "published": "2018-04-10T17:14:00+08:00",
+        "updated": "2018-04-10T11:30:55Z",
+        "author": {
+          "name": "Mangosu",
+          "uri": "http://www.cnblogs.com/hellosuchao/"
+        },
+        "link": {
+          "rel": "alternate",
+          "href": "http://www.cnblogs.com/hellosuchao/p/8780663.html"
+        },
+        "blogapp": "hellosuchao",
+        "diggs": "0",
+        "views": "62",
+        "comments": "0"
+      },
+      {
+        "id": "8780556",
+        "title": {
+          "type": "text",
+          "text": "IPv6原理、应用与实践"
+        },
+        "summary": {
+          "type": "text",
+          "text": " 欢迎大家前往腾讯云社区，获取更多腾讯海量技术实践干货哦~作者：腾讯微信技术架构部团队年月日，中共中央办公厅和国务院办公厅印发了《推荐互联网协议第六版（）规模部署行动计划》，并发出通知，要求各地区各部门结合实际认真贯彻落实。这条新闻传达了一个很重要的信息：这个是推进中国 "
+        },
+        "published": "2018-04-10T17:01:00+08:00",
+        "updated": "2018-04-10T11:30:55Z",
+        "author": {
+          "name": "腾讯云+社区",
+          "uri": "http://www.cnblogs.com/qcloud1001/",
+          "avatar": " http://pic.cnblogs.com/face/1112679/20171215110021.png "
+        },
+        "link": {
+          "rel": "alternate",
+          "href": "http://www.cnblogs.com/qcloud1001/p/8780556.html"
+        },
+        "blogapp": "qcloud1001",
+        "diggs": "2",
+        "views": "28",
+        "comments": "0"
+      },
+      {
+        "id": "8780548",
+        "title": {
+          "type": "text",
+          "text": " 【深度学习】深入理解优化器Optimizer算法（BGD、SGD、MBGD、Momentum、NAG、Adagrad、Adadelta、RMSprop、Adam） "
+        },
+        "summary": {
+          "type": "text",
+          "text": " 在机器学习、深度学习中使用的优化算法除了常见的梯度下降，还有，，等几种优化器，都是什么呢，又该怎么选择呢？在的这篇论文中给出了常用优化器的比较，今天来学习一下： "
+        },
+        "published": "2018-04-10T16:59:00+08:00",
+        "updated": "2018-04-10T11:30:55Z",
+        "author": {
+          "name": "郭耀华",
+          "uri": "http://www.cnblogs.com/guoyaohua/",
+          "avatar": " http://pic.cnblogs.com/face/1192699/20180202230001.png "
+        },
+        "link": {
+          "rel": "alternate",
+          "href": "http://www.cnblogs.com/guoyaohua/p/8780548.html"
+        },
+        "blogapp": "guoyaohua",
+        "diggs": "1",
+        "views": "45",
+        "comments": "0"
+      },
+      {
+        "id": "8778106",
+        "title": {
+          "type": "text",
+          "text": "Zookeeper分布式服务协调组件"
+        },
+        "summary": {
+          "type": "text",
+          "text": " 简介是一个分布式服务协调组件是、、的重要组件它是一个为分布式应用提供一致性服务的组件的目标就是封装好复杂易出错的服务为使用者提供高效、稳定的服务使用场景、、依赖的组件 "
+        },
+        "published": "2018-04-10T16:32:00+08:00",
+        "updated": "2018-04-10T11:30:55Z",
+        "author": {
+          "name": "funyoung",
+          "uri": "http://www.cnblogs.com/funyoung/",
+          "avatar": " http://pic.cnblogs.com/face/1337502/20180318200451.png "
+        },
+        "link": {
+          "rel": "alternate",
+          "href": "http://www.cnblogs.com/funyoung/p/8778106.html"
+        },
+        "blogapp": "funyoung",
+        "diggs": "1",
+        "views": "151",
+        "comments": "0"
+      },
+      {
+        "id": "8780146",
+        "title": {
+          "type": "text",
+          "text": "关于类的对象创建与初始化"
+        },
+        "summary": {
+          "type": "text",
+          "text": " 今天，我们就来解决一个问题，一个类实例究竟要经过多少个步骤才能被创建出来，也就是下面这行代码的背后，做了哪些事情？当虚拟机接受到一条指令时，首先会拿指令后的参数，也就是我们类的符号引用，于方法区中进行检查，看是否该类已经被 "
+        },
+        "published": "2018-04-10T16:20:00+08:00",
+        "updated": "2018-04-10T11:30:55Z",
+        "author": {
+          "name": "一只黑色的猫",
+          "uri": "http://www.cnblogs.com/yangming1996/",
+          "avatar": " http://pic.cnblogs.com/face/979390/20170307174719.png "
+        },
+        "link": {
+          "rel": "alternate",
+          "href": "http://www.cnblogs.com/yangming1996/p/8780146.html"
+        },
+        "blogapp": "yangming1996",
+        "diggs": "1",
+        "views": "41",
+        "comments": "0"
+      },
+      {
+        "id": "8780133",
+        "title": {
+          "type": "text",
+          "text": "Django之views系统"
+        },
+        "summary": {
+          "type": "text",
+          "text": " 的（视图）简介一个视图函数（类），简称视图，是一个简单的y函数（类），它接受请求并且返回响应。响应可以是一张网页的内容，一个重定向，一个错误，一个文档，或者一张图片。无论视图本身包含什么逻辑，都要返回响应。代码写在哪里也无所谓，只 "
+        },
+        "published": "2018-04-10T16:18:00+08:00",
+        "updated": "2018-04-10T11:30:55Z",
+        "author": {
+          "name": "春生",
+          "uri": "http://www.cnblogs.com/jiangchunsheng/",
+          "avatar": " http://pic.cnblogs.com/face/1299857/20180410100210.png "
+        },
+        "link": {
+          "rel": "alternate",
+          "href": "http://www.cnblogs.com/jiangchunsheng/p/8780133.html"
+        },
+        "blogapp": "jiangchunsheng",
+        "diggs": "0",
+        "views": "64",
+        "comments": "0"
+      },
+      {
+        "id": "8779982",
+        "title": {
+          "type": "text",
+          "text": "前端问题整理"
+        },
+        "summary": {
+          "type": "text",
+          "text": " 先放一枚花生日记邀请码有做推广联盟赚钱的朋友可以了解下花生日记，，综合问题、前端需要注意哪些合理的、、y：搜索对着三项的权重逐个减小，值强调重点即可，重要关键词出现不要超过次，而 "
+        },
+        "published": "2018-04-10T16:08:00+08:00",
+        "updated": "2018-04-10T11:30:55Z",
+        "author": {
+          "name": "迷惘却坚定",
+          "uri": "http://www.cnblogs.com/besuccess/",
+          "avatar": " http://pic.cnblogs.com/face/591729/20161221150603.png "
+        },
+        "link": {
+          "rel": "alternate",
+          "href": "http://www.cnblogs.com/besuccess/p/8779982.html"
+        },
+        "blogapp": "besuccess",
+        "diggs": "1",
+        "views": "50",
+        "comments": "1"
+      },
+      {
+        "id": "8778613",
+        "title": {
+          "type": "text",
+          "text": "greenplum集群某台机器磁盘占用100%处理方式"
+        },
+        "summary": {
+          "type": "text",
+          "text": " 一、问题描述使用往集群中导入大量数据，一段时间后连接退出，集群无法连接二、问题定位使用如下命令查看：连接到相应机器，查看磁盘状况：说明此时磁盘占用满了。三、问题解决处理这种情况有如下几种方式：扩容磁盘由于本人是将数据目录直接放在根目录下，可以通过添加一块新磁 "
+        },
+        "published": "2018-04-10T16:04:00+08:00",
+        "updated": "2018-04-10T11:30:55Z",
+        "author": {
+          "name": "yxly2008",
+          "uri": "http://www.cnblogs.com/qiannianyuan/"
+        },
+        "link": {
+          "rel": "alternate",
+          "href": "http://www.cnblogs.com/qiannianyuan/p/pg_resetxlog.html"
+        },
+        "blogapp": "qiannianyuan",
+        "diggs": "0",
+        "views": "49",
+        "comments": "0"
+      },
+      {
+        "id": "8779871",
+        "title": {
+          "type": "text",
+          "text": "less规范"
+        },
+        "summary": {
+          "type": "text",
+          "text": " 编码规范简介该文档主要的设计目标是提高文档的团队一致性与可维护性。代码的基本规范和原则与编码规范保持一致。编撰吕俊涛本文档由审校发布。要求在本文档中，使用的关键字会以中文括号包含的关键字英文表示：必须（）。关键字 "
+        },
+        "published": "2018-04-10T15:57:00+08:00",
+        "updated": "2018-04-10T11:30:55Z",
+        "author": {
+          "name": "lvjuntao",
+          "uri": "http://www.cnblogs.com/lvjuntao/",
+          "avatar": " http://pic.cnblogs.com/face/1204242/20170721103107.png "
+        },
+        "link": {
+          "rel": "alternate",
+          "href": "http://www.cnblogs.com/lvjuntao/p/8779871.html"
+        },
+        "blogapp": "lvjuntao",
+        "diggs": "0",
+        "views": "42",
+        "comments": "0"
+      },
+      {
+        "id": "8779746",
+        "title": {
+          "type": "text",
+          "text": "【iOS】UIViewController基类的实现"
+        },
+        "summary": {
+          "type": "text",
+          "text": "继承是面向对象编程语言的三大特性之一，写好基类会给的开发带来极大的方便。在开发中，一般一个页面就对应一个，在开发中用的也很多，写一个好的的基类，会让开发变得轻松很多。可以写一个 "
+        },
+        "published": "2018-04-10T15:49:00+08:00",
+        "updated": "2018-04-10T11:30:55Z",
+        "author": {
+          "name": "colorful_flowers",
+          "uri": "http://www.cnblogs.com/zhanqin/",
+          "avatar": " http://pic.cnblogs.com/face/1286602/20180103111345.png "
+        },
+        "link": {
+          "rel": "alternate",
+          "href": "http://www.cnblogs.com/zhanqin/p/8779746.html"
+        },
+        "blogapp": "zhanqin",
+        "diggs": "0",
+        "views": "24",
+        "comments": "0"
+      }
+    ]
+  }
+}
