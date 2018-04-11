@@ -1,0 +1,5 @@
+{"url": {
+    "problemAll": "https://leetcode-cn.com/api/problems/all/",
+    "title_translations": "https://leetcode-cn.com/graphql?query=query%20getQuestionTranslation(%24lang%3A%20String)%20%7B%0A%20%20translations%3A%20allAppliedQuestionTranslations(lang%3A%20%24lang)%20%7B%0A%20%20%20%20title%0A%20%20%20%20question%20%7B%0A%20%20%20%20%20%20questionId%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0A&operationName=getQuestionTranslation&variables=%7B%7D"
+  }
+}

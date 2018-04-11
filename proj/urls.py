@@ -16,9 +16,12 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from app.api import article
+from app.api import leetcode
+
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/article/index', article.index),
     path('api/article/item/<int:article_id>', article.item),
+    path('api/leetcode/lists', leetcode.lists),
 ]
