@@ -3260,3 +3260,833 @@ Not Found: /favicon.ico
 [pid: 1080|app: 0|req: 265/1386] 222.178.10.231 () {40 vars in 641 bytes} [Tue Apr 10 07:58:02 2018] GET /favicon.ico => generated 1966 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
 [pid: 1075|app: 0|req: 1022/1387] 60.191.38.77 () {34 vars in 505 bytes} [Tue Apr 10 08:17:26 2018] GET / => generated 16348 bytes in 3 msecs (HTTP/1.1 200) 3 headers in 96 bytes (1 switches on core 1)
 [pid: 1075|app: 0|req: 1023/1388] 114.215.45.79 () {32 vars in 351 bytes} [Tue Apr 10 08:28:08 2018] GET / => generated 16348 bytes in 3 msecs (HTTP/1.1 200) 3 headers in 96 bytes (1 switches on core 0)
+[pid: 1075|app: 0|req: 1024/1389] 222.178.10.231 () {40 vars in 686 bytes} [Tue Apr 10 08:49:46 2018] GET / => generated 16348 bytes in 3 msecs (HTTP/1.1 200) 3 headers in 96 bytes (1 switches on core 1)
+Not Found: /static/admin/css/fonts.css
+[pid: 1075|app: 0|req: 1025/1390] 222.178.10.231 () {40 vars in 670 bytes} [Tue Apr 10 08:49:46 2018] GET /static/admin/css/fonts.css => generated 2011 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /favicon.ico
+[pid: 1080|app: 0|req: 266/1391] 222.178.10.231 () {40 vars in 661 bytes} [Tue Apr 10 08:49:46 2018] GET /favicon.ico => generated 1966 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+[pid: 1075|app: 0|req: 1026/1392] 222.178.10.231 () {40 vars in 687 bytes} [Tue Apr 10 09:17:12 2018] GET / => generated 16348 bytes in 3 msecs (HTTP/1.1 200) 3 headers in 96 bytes (1 switches on core 1)
+Not Found: /static/admin/css/fonts.css
+[pid: 1075|app: 0|req: 1027/1393] 222.178.10.231 () {40 vars in 671 bytes} [Tue Apr 10 09:17:12 2018] GET /static/admin/css/fonts.css => generated 2011 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /api/articles
+[pid: 1080|app: 0|req: 267/1394] 222.178.10.231 () {40 vars in 711 bytes} [Tue Apr 10 09:17:23 2018] GET /api/articles => generated 1969 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /api/articles
+[pid: 1080|app: 0|req: 268/1395] 222.178.10.231 () {42 vars in 742 bytes} [Tue Apr 10 09:17:52 2018] GET /api/articles => generated 1969 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /api/articles
+[pid: 1075|app: 0|req: 1028/1396] 222.178.10.231 () {42 vars in 742 bytes} [Tue Apr 10 09:18:17 2018] GET /api/articles => generated 1969 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /api/articles
+[pid: 1075|app: 0|req: 1029/1397] 222.178.10.231 () {40 vars in 715 bytes} [Tue Apr 10 09:18:29 2018] GET /api/articles => generated 1973 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /favicon.ico
+[pid: 1080|app: 0|req: 269/1398] 222.178.10.231 () {40 vars in 682 bytes} [Tue Apr 10 09:18:29 2018] GET /favicon.ico => generated 1970 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /api/articles
+[pid: 1076|app: 0|req: 64/1399] 222.178.10.231 () {40 vars in 711 bytes} [Tue Apr 10 09:18:36 2018] GET /api/articles => generated 1969 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /api/articles
+[pid: 1075|app: 0|req: 1030/1400] 222.178.10.231 () {40 vars in 714 bytes} [Tue Apr 10 09:18:52 2018] GET /api/articles => generated 1972 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /favicon.ico
+[pid: 1075|app: 0|req: 1031/1401] 222.178.10.231 () {40 vars in 680 bytes} [Tue Apr 10 09:18:52 2018] GET /favicon.ico => generated 1969 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /api
+[pid: 1080|app: 0|req: 270/1402] 222.178.10.231 () {40 vars in 692 bytes} [Tue Apr 10 09:19:51 2018] GET /api => generated 1942 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+[pid: 1080|app: 0|req: 271/1403] 222.178.10.231 () {40 vars in 696 bytes} [Tue Apr 10 09:20:00 2018] GET /admin => generated 0 bytes in 0 msecs (HTTP/1.1 301) 3 headers in 112 bytes (1 switches on core 0)
+[pid: 1079|app: 0|req: 20/1404] 222.178.10.231 () {40 vars in 698 bytes} [Tue Apr 10 09:20:00 2018] GET /admin/ => generated 0 bytes in 14 msecs (HTTP/1.1 302) 7 headers in 265 bytes (1 switches on core 0)
+[pid: 1075|app: 0|req: 1032/1405] 222.178.10.231 () {40 vars in 735 bytes} [Tue Apr 10 09:20:00 2018] GET /admin/login/?next=/admin/ => generated 1855 bytes in 15 msecs (HTTP/1.1 200) 7 headers in 381 bytes (1 switches on core 1)
+Not Found: /static/admin/css/base.css
+[pid: 1075|app: 0|req: 1033/1406] 222.178.10.231 () {42 vars in 782 bytes} [Tue Apr 10 09:20:00 2018] GET /static/admin/css/base.css => generated 2008 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/login.css
+[pid: 1078|app: 0|req: 13/1407] 222.178.10.231 () {42 vars in 795 bytes} [Tue Apr 10 09:20:00 2018] GET /static/admin/css/responsive.css => generated 2026 bytes in 6 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 1079|app: 0|req: 21/1408] 222.178.10.231 () {42 vars in 785 bytes} [Tue Apr 10 09:20:00 2018] GET /static/admin/css/login.css => generated 2011 bytes in 8 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+[pid: 1078|app: 0|req: 14/1409] 222.178.10.231 () {42 vars in 776 bytes} [Tue Apr 10 09:20:05 2018] GET / => generated 16348 bytes in 3 msecs (HTTP/1.1 200) 3 headers in 96 bytes (1 switches on core 1)
+Not Found: /static/admin/css/fonts.css
+[pid: 1080|app: 0|req: 272/1410] 222.178.10.231 () {42 vars in 760 bytes} [Tue Apr 10 09:20:05 2018] GET /static/admin/css/fonts.css => generated 2011 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /cache/global/img/gs.gif
+[pid: 1080|app: 0|req: 273/1411] 80.82.78.50 () {32 vars in 420 bytes} [Tue Apr 10 09:20:28 2018] GET /cache/global/img/gs.gif => generated 2005 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+[pid: 1075|app: 0|req: 1034/1412] 222.178.10.231 () {44 vars in 807 bytes} [Tue Apr 10 09:25:21 2018] GET / => generated 16348 bytes in 3 msecs (HTTP/1.1 200) 3 headers in 96 bytes (1 switches on core 1)
+Not Found: /static/admin/css/fonts.css
+[pid: 1075|app: 0|req: 1035/1413] 222.178.10.231 () {42 vars in 760 bytes} [Tue Apr 10 09:25:21 2018] GET /static/admin/css/fonts.css => generated 2011 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /api/articles
+[pid: 1080|app: 0|req: 274/1414] 222.178.10.231 () {42 vars in 800 bytes} [Tue Apr 10 09:25:28 2018] GET /api/articles => generated 1969 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /api/articles
+[pid: 1080|app: 0|req: 275/1415] 222.178.10.231 () {44 vars in 831 bytes} [Tue Apr 10 09:25:32 2018] GET /api/articles => generated 1969 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /api/articles
+[pid: 1076|app: 0|req: 65/1416] 222.178.10.231 () {44 vars in 831 bytes} [Tue Apr 10 09:26:09 2018] GET /api/articles => generated 1969 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /api/articles
+[pid: 1075|app: 0|req: 1036/1417] 222.178.10.231 () {44 vars in 831 bytes} [Tue Apr 10 09:26:12 2018] GET /api/articles => generated 1969 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /favicon.ico
+[pid: 1075|app: 0|req: 1037/1418] 222.178.10.231 () {36 vars in 597 bytes} [Tue Apr 10 09:26:25 2018] GET /favicon.ico => generated 1966 bytes in 5 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /api/articles
+[pid: 1080|app: 0|req: 276/1419] 222.178.10.231 () {40 vars in 723 bytes} [Tue Apr 10 09:26:26 2018] GET /api/articles => generated 1969 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /favicon.ico
+[pid: 1080|app: 0|req: 277/1420] 222.178.10.231 () {40 vars in 661 bytes} [Tue Apr 10 09:26:26 2018] GET /favicon.ico => generated 1966 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+[pid: 1075|app: 0|req: 1038/1421] 222.178.10.231 () {42 vars in 776 bytes} [Tue Apr 10 09:26:46 2018] GET / => generated 16348 bytes in 3 msecs (HTTP/1.1 200) 3 headers in 96 bytes (1 switches on core 1)
+Not Found: /static/admin/css/fonts.css
+[pid: 1076|app: 0|req: 66/1422] 222.178.10.231 () {42 vars in 760 bytes} [Tue Apr 10 09:26:46 2018] GET /static/admin/css/fonts.css => generated 2011 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 1075|app: 0|req: 1039/1423] 222.178.10.231 () {44 vars in 807 bytes} [Tue Apr 10 09:28:23 2018] GET / => generated 16348 bytes in 3 msecs (HTTP/1.1 200) 3 headers in 96 bytes (1 switches on core 0)
+Not Found: /static/admin/css/fonts.css
+[pid: 1080|app: 0|req: 278/1424] 222.178.10.231 () {42 vars in 760 bytes} [Tue Apr 10 09:28:24 2018] GET /static/admin/css/fonts.css => generated 2011 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 1075|app: 0|req: 1040/1425] 222.178.10.231 () {44 vars in 807 bytes} [Tue Apr 10 09:28:25 2018] GET / => generated 16348 bytes in 3 msecs (HTTP/1.1 200) 3 headers in 96 bytes (1 switches on core 1)
+Not Found: /static/admin/css/fonts.css
+[pid: 1080|app: 0|req: 279/1426] 222.178.10.231 () {42 vars in 760 bytes} [Tue Apr 10 09:28:25 2018] GET /static/admin/css/fonts.css => generated 2011 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+[pid: 1076|app: 0|req: 67/1427] 222.178.10.231 () {44 vars in 807 bytes} [Tue Apr 10 09:28:31 2018] GET / => generated 16348 bytes in 3 msecs (HTTP/1.1 200) 3 headers in 96 bytes (1 switches on core 1)
+Not Found: /static/admin/css/fonts.css
+[pid: 1076|app: 0|req: 68/1428] 222.178.10.231 () {42 vars in 760 bytes} [Tue Apr 10 09:28:31 2018] GET /static/admin/css/fonts.css => generated 2011 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 1079|app: 0|req: 22/1429] 222.178.10.231 () {46 vars in 820 bytes} [Tue Apr 10 09:28:48 2018] GET / => generated 16348 bytes in 3 msecs (HTTP/1.1 200) 3 headers in 96 bytes (1 switches on core 0)
+Not Found: /static/admin/css/fonts.css
+[pid: 1075|app: 0|req: 1041/1430] 222.178.10.231 () {44 vars in 773 bytes} [Tue Apr 10 09:28:48 2018] GET /static/admin/css/fonts.css => generated 2011 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 1079|app: 0|req: 23/1431] 222.178.10.231 () {42 vars in 703 bytes} [Tue Apr 10 09:28:53 2018] GET / => generated 16348 bytes in 3 msecs (HTTP/1.1 200) 3 headers in 96 bytes (1 switches on core 1)
+Not Found: /static/admin/css/fonts.css
+[pid: 1077|app: 0|req: 7/1432] 222.178.10.231 () {42 vars in 691 bytes} [Tue Apr 10 09:28:53 2018] GET /static/admin/css/fonts.css => generated 2015 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 1075|app: 0|req: 1042/1433] 222.178.10.231 () {44 vars in 789 bytes} [Tue Apr 10 09:28:59 2018] GET / => generated 16348 bytes in 3 msecs (HTTP/1.1 200) 3 headers in 96 bytes (1 switches on core 1)
+Not Found: /static/admin/css/fonts.css
+[pid: 1080|app: 0|req: 280/1434] 222.178.10.231 () {44 vars in 773 bytes} [Tue Apr 10 09:28:59 2018] GET /static/admin/css/fonts.css => generated 2011 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 1080|app: 0|req: 281/1435] 222.178.10.231 () {44 vars in 789 bytes} [Tue Apr 10 09:30:06 2018] GET / => generated 16348 bytes in 4 msecs (HTTP/1.1 200) 3 headers in 96 bytes (1 switches on core 1)
+Not Found: /static/admin/css/fonts.css
+[pid: 1076|app: 0|req: 69/1436] 222.178.10.231 () {44 vars in 773 bytes} [Tue Apr 10 09:30:06 2018] GET /static/admin/css/fonts.css => generated 2011 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+[pid: 1075|app: 0|req: 1043/1437] 222.178.10.231 () {46 vars in 820 bytes} [Tue Apr 10 09:31:00 2018] GET / => generated 16348 bytes in 3 msecs (HTTP/1.1 200) 3 headers in 96 bytes (1 switches on core 0)
+Not Found: /static/admin/css/fonts.css
+[pid: 1075|app: 0|req: 1044/1438] 222.178.10.231 () {44 vars in 773 bytes} [Tue Apr 10 09:31:00 2018] GET /static/admin/css/fonts.css => generated 2011 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+[pid: 1080|app: 0|req: 282/1439] 222.178.10.231 () {46 vars in 820 bytes} [Tue Apr 10 09:31:02 2018] GET / => generated 16348 bytes in 3 msecs (HTTP/1.1 200) 3 headers in 96 bytes (1 switches on core 0)
+Not Found: /static/admin/css/fonts.css
+[pid: 1080|app: 0|req: 283/1440] 222.178.10.231 () {44 vars in 773 bytes} [Tue Apr 10 09:31:02 2018] GET /static/admin/css/fonts.css => generated 2011 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+[pid: 1076|app: 0|req: 70/1441] 222.178.10.231 () {46 vars in 820 bytes} [Tue Apr 10 09:31:26 2018] GET / => generated 16348 bytes in 3 msecs (HTTP/1.1 200) 3 headers in 96 bytes (1 switches on core 0)
+Not Found: /static/admin/css/fonts.css
+[pid: 1076|app: 0|req: 71/1442] 222.178.10.231 () {44 vars in 773 bytes} [Tue Apr 10 09:31:26 2018] GET /static/admin/css/fonts.css => generated 2011 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+[pid: 1075|app: 0|req: 1045/1443] 222.178.10.231 () {46 vars in 820 bytes} [Tue Apr 10 09:31:28 2018] GET / => generated 16348 bytes in 3 msecs (HTTP/1.1 200) 3 headers in 96 bytes (1 switches on core 0)
+Not Found: /static/admin/css/fonts.css
+[pid: 1077|app: 0|req: 8/1444] 222.178.10.231 () {44 vars in 773 bytes} [Tue Apr 10 09:31:28 2018] GET /static/admin/css/fonts.css => generated 2011 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+[pid: 1075|app: 0|req: 1046/1445] 222.178.10.231 () {46 vars in 820 bytes} [Tue Apr 10 09:34:38 2018] GET / => generated 16348 bytes in 3 msecs (HTTP/1.1 200) 3 headers in 96 bytes (1 switches on core 1)
+Not Found: /static/admin/css/fonts.css
+[pid: 1075|app: 0|req: 1047/1446] 222.178.10.231 () {44 vars in 773 bytes} [Tue Apr 10 09:34:38 2018] GET /static/admin/css/fonts.css => generated 2011 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 1080|app: 0|req: 284/1447] 222.178.10.231 () {46 vars in 820 bytes} [Tue Apr 10 09:34:40 2018] GET / => generated 16348 bytes in 3 msecs (HTTP/1.1 200) 3 headers in 96 bytes (1 switches on core 0)
+Not Found: /static/admin/css/fonts.css
+[pid: 1080|app: 0|req: 285/1448] 222.178.10.231 () {44 vars in 773 bytes} [Tue Apr 10 09:34:40 2018] GET /static/admin/css/fonts.css => generated 2011 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+[pid: 1076|app: 0|req: 72/1449] 222.178.10.231 () {46 vars in 820 bytes} [Tue Apr 10 09:35:12 2018] GET / => generated 16348 bytes in 3 msecs (HTTP/1.1 200) 3 headers in 96 bytes (1 switches on core 0)
+Not Found: /static/admin/css/fonts.css
+[pid: 1076|app: 0|req: 73/1450] 222.178.10.231 () {44 vars in 773 bytes} [Tue Apr 10 09:35:12 2018] GET /static/admin/css/fonts.css => generated 2011 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+[pid: 1079|app: 0|req: 24/1451] 222.178.10.231 () {46 vars in 820 bytes} [Tue Apr 10 09:35:16 2018] GET / => generated 16348 bytes in 3 msecs (HTTP/1.1 200) 3 headers in 96 bytes (1 switches on core 0)
+Not Found: /static/admin/css/fonts.css
+[pid: 1075|app: 0|req: 1048/1452] 222.178.10.231 () {44 vars in 773 bytes} [Tue Apr 10 09:35:16 2018] GET /static/admin/css/fonts.css => generated 2011 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+[pid: 1079|app: 0|req: 25/1453] 222.178.10.231 () {46 vars in 820 bytes} [Tue Apr 10 09:35:19 2018] GET / => generated 16348 bytes in 3 msecs (HTTP/1.1 200) 3 headers in 96 bytes (1 switches on core 1)
+Not Found: /static/admin/css/fonts.css
+[pid: 1075|app: 0|req: 1049/1454] 222.178.10.231 () {44 vars in 773 bytes} [Tue Apr 10 09:35:19 2018] GET /static/admin/css/fonts.css => generated 2011 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 1080|app: 0|req: 286/1455] 14.116.137.166 () {42 vars in 783 bytes} [Tue Apr 10 09:35:53 2018] GET / => generated 16348 bytes in 3 msecs (HTTP/1.1 200) 3 headers in 96 bytes (1 switches on core 0)
+[pid: 1080|app: 0|req: 287/1456] 123.151.76.245 () {42 vars in 771 bytes} [Tue Apr 10 09:35:54 2018] GET / => generated 16348 bytes in 3 msecs (HTTP/1.1 200) 3 headers in 96 bytes (1 switches on core 1)
+Not Found: /static/admin/css/fonts.css
+[pid: 1076|app: 0|req: 74/1457] 111.30.143.27 () {42 vars in 674 bytes} [Tue Apr 10 09:35:54 2018] GET /static/admin/css/fonts.css => generated 2011 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /static/admin/css/fonts.css
+[pid: 1075|app: 0|req: 1050/1458] 14.116.137.166 () {44 vars in 778 bytes} [Tue Apr 10 09:35:55 2018] GET /static/admin/css/fonts.css => generated 2011 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /favicon.ico
+[pid: 1076|app: 0|req: 75/1459] 14.116.137.166 () {42 vars in 772 bytes} [Tue Apr 10 09:35:55 2018] GET /favicon.ico => generated 1966 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+[pid: 1075|app: 0|req: 1051/1460] 14.116.137.166 () {42 vars in 783 bytes} [Tue Apr 10 09:36:40 2018] GET / => generated 16348 bytes in 3 msecs (HTTP/1.1 200) 3 headers in 96 bytes (1 switches on core 0)
+Not Found: /static/admin/css/fonts.css
+[pid: 1080|app: 0|req: 288/1461] 14.116.137.166 () {44 vars in 778 bytes} [Tue Apr 10 09:36:40 2018] GET /static/admin/css/fonts.css => generated 2011 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /favicon.ico
+[pid: 1080|app: 0|req: 289/1462] 14.116.137.166 () {42 vars in 772 bytes} [Tue Apr 10 09:36:40 2018] GET /favicon.ico => generated 1966 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /1001Django: the Web framework for perfectionists with deadlines.
+[pid: 1075|app: 0|req: 1052/1463] 106.91.191.47 () {42 vars in 1046 bytes} [Tue Apr 10 09:36:43 2018] GET /1001Django:%20the%20Web%20framework%20for%20perfectionists%20with%20deadlines. => generated 2139 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /1001Django: the Web framework for perfectionists with deadlines.
+[pid: 1075|app: 0|req: 1053/1464] 106.91.191.47 () {42 vars in 1046 bytes} [Tue Apr 10 09:36:44 2018] GET /1001Django:%20the%20Web%20framework%20for%20perfectionists%20with%20deadlines. => generated 2139 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /1001Django: the Web framework for perfectionists with deadlines.
+[pid: 1080|app: 0|req: 290/1465] 106.91.191.47 () {42 vars in 1046 bytes} [Tue Apr 10 09:36:44 2018] GET /1001Django:%20the%20Web%20framework%20for%20perfectionists%20with%20deadlines. => generated 2139 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /1001Django: the Web framework for perfectionists with deadlines.
+Not Found: /1001Django: the Web framework for perfectionists with deadlines.
+[pid: 1080|app: 0|req: 291/1466] 106.91.191.47 () {42 vars in 1046 bytes} [Tue Apr 10 09:44:41 2018] GET /1001Django:%20the%20Web%20framework%20for%20perfectionists%20with%20deadlines. => generated 2139 bytes in 5 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+[pid: 1075|app: 0|req: 1054/1467] 106.91.191.47 () {42 vars in 1046 bytes} [Tue Apr 10 09:44:41 2018] GET /1001Django:%20the%20Web%20framework%20for%20perfectionists%20with%20deadlines. => generated 2139 bytes in 7 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /1001Django: the Web framework for perfectionists with deadlines.
+[pid: 1075|app: 0|req: 1055/1468] 106.91.191.47 () {42 vars in 1046 bytes} [Tue Apr 10 09:44:41 2018] GET /1001Django:%20the%20Web%20framework%20for%20perfectionists%20with%20deadlines. => generated 2139 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /1001Django: the Web framework for perfectionists with deadlines.
+[pid: 1080|app: 0|req: 292/1469] 106.91.191.47 () {42 vars in 1046 bytes} [Tue Apr 10 09:44:43 2018] GET /1001Django:%20the%20Web%20framework%20for%20perfectionists%20with%20deadlines. => generated 2139 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /1001Django: the Web framework for perfectionists with deadlines.
+[pid: 1076|app: 0|req: 76/1470] 106.91.191.47 () {42 vars in 1046 bytes} [Tue Apr 10 09:44:43 2018] GET /1001Django:%20the%20Web%20framework%20for%20perfectionists%20with%20deadlines. => generated 2139 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /1001Django: the Web framework for perfectionists with deadlines.
+[pid: 1075|app: 0|req: 1056/1471] 106.91.191.47 () {42 vars in 1046 bytes} [Tue Apr 10 09:44:43 2018] GET /1001Django:%20the%20Web%20framework%20for%20perfectionists%20with%20deadlines. => generated 2139 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /1001Django: the Web framework for perfectionists with deadlines.
+[pid: 1075|app: 0|req: 1057/1472] 106.91.191.47 () {42 vars in 1046 bytes} [Tue Apr 10 09:44:43 2018] GET /1001Django:%20the%20Web%20framework%20for%20perfectionists%20with%20deadlines. => generated 2139 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 1080|app: 0|req: 293/1473] 14.116.137.166 () {42 vars in 783 bytes} [Tue Apr 10 09:44:46 2018] GET / => generated 16348 bytes in 3 msecs (HTTP/1.1 200) 3 headers in 96 bytes (1 switches on core 1)
+Not Found: /static/admin/css/fonts.css
+[pid: 1076|app: 0|req: 77/1474] 14.116.137.166 () {44 vars in 778 bytes} [Tue Apr 10 09:44:46 2018] GET /static/admin/css/fonts.css => generated 2011 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /favicon.ico
+[pid: 1080|app: 0|req: 294/1475] 14.116.137.166 () {42 vars in 772 bytes} [Tue Apr 10 09:44:46 2018] GET /favicon.ico => generated 1966 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 1075|app: 0|req: 1058/1476] 169.54.233.118 () {28 vars in 295 bytes} [Tue Apr 10 09:59:03 2018] GET / => generated 16348 bytes in 3 msecs (HTTP/1.1 200) 3 headers in 96 bytes (1 switches on core 1)
+...gracefully killing workers...
+Gracefully killing worker 1 (pid: 1075)...
+Gracefully killing worker 2 (pid: 1076)...
+Gracefully killing worker 3 (pid: 1077)...
+Gracefully killing worker 4 (pid: 1078)...
+Gracefully killing worker 5 (pid: 1079)...
+Gracefully killing worker 6 (pid: 1080)...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 6 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /home/django/proj
+closing all non-uwsgi socket fds > 2 (max_fd = 65535)...
+found fd 3 mapped to socket 0 (0:3031)
+running /usr/local/bin/uwsgi
+[uWSGI] getting INI configuration from uwsgi.ini
+*** Starting uWSGI 2.0.17 (64bit) on [Tue Apr 10 10:10:19 2018] ***
+compiled with version: 5.4.0 20160609 on 17 March 2018 02:58:33
+os: Linux-4.4.0-93-generic #116-Ubuntu SMP Fri Aug 11 21:17:51 UTC 2017
+nodename: iZwz9hegwjg73fgslzi6xvZ
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/django/proj
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/django/proj
+your processes number limit is 7857
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 0:3031 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.5.2 (default, Nov 23 2017, 16:37:01)  [GCC 5.4.0 20160609]
+Python main interpreter initialized at 0x92fc30
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 583408 bytes (569 KB) for 12 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x92fc30 pid: 1073 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 1073)
+spawned uWSGI worker 1 (pid: 27345, cores: 2)
+spawned uWSGI worker 2 (pid: 27346, cores: 2)
+spawned uWSGI worker 3 (pid: 27347, cores: 2)
+spawned uWSGI worker 4 (pid: 27348, cores: 2)
+spawned uWSGI worker 5 (pid: 27349, cores: 2)
+spawned uWSGI worker 6 (pid: 27350, cores: 2)
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 113, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "/usr/local/lib/python3.5/dist-packages/django/urls/resolvers.py", line 494, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/functional.py", line 36, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.5/dist-packages/django/urls/resolvers.py", line 536, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/functional.py", line 36, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.5/dist-packages/django/urls/resolvers.py", line 529, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 956, in _find_and_load_unlocked
+ImportError: No module named 'proj.urls'
+[pid: 27347|app: 0|req: 1/1] 222.178.10.231 () {46 vars in 820 bytes} [Tue Apr 10 10:10:21 2018] GET / => generated 76822 bytes in 69 msecs (HTTP/1.1 500) 4 headers in 129 bytes (1 switches on core 0)
+Not Found: /
+[pid: 27350|app: 0|req: 1/2] 222.178.10.231 () {46 vars in 820 bytes} [Tue Apr 10 10:10:41 2018] GET / => generated 2027 bytes in 17 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 27350|app: 0|req: 2/3] 222.178.10.231 () {44 vars in 813 bytes} [Tue Apr 10 10:10:50 2018] GET /api/articles => generated 43 bytes in 1 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 1)
+Not Found: /
+[pid: 27347|app: 0|req: 2/4] 14.116.137.166 () {42 vars in 783 bytes} [Tue Apr 10 10:11:44 2018] GET / => generated 2027 bytes in 8 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /favicon.ico
+[pid: 27350|app: 0|req: 3/5] 14.116.137.166 () {42 vars in 772 bytes} [Tue Apr 10 10:11:44 2018] GET /favicon.ico => generated 2078 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: / api/ articles
+[pid: 27350|app: 0|req: 4/6] 14.116.137.166 () {42 vars in 815 bytes} [Tue Apr 10 10:12:15 2018] GET /%20api/%20articles => generated 2091 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /favicon.ico
+[pid: 27349|app: 0|req: 1/7] 14.116.137.166 () {42 vars in 790 bytes} [Tue Apr 10 10:12:15 2018] GET /favicon.ico => generated 2078 bytes in 17 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 27350|app: 0|req: 5/8] 14.116.137.166 () {42 vars in 807 bytes} [Tue Apr 10 10:12:28 2018] GET /api/articles => generated 43 bytes in 0 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 1)
+Not Found: /favicon.ico
+[pid: 27345|app: 0|req: 1/9] 14.116.137.166 () {42 vars in 784 bytes} [Tue Apr 10 10:12:28 2018] GET /favicon.ico => generated 2078 bytes in 17 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: / api/ articles
+[pid: 27350|app: 0|req: 6/10] 140.207.118.16 () {36 vars in 626 bytes} [Tue Apr 10 10:13:15 2018] GET /%20api/%20articles => generated 2091 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+[pid: 27349|app: 0|req: 2/11] 222.178.10.231 () {44 vars in 812 bytes} [Tue Apr 10 10:13:40 2018] GET /api/articles => generated 43 bytes in 1 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 1)
+Not Found: /
+[pid: 27348|app: 0|req: 1/12] 222.178.10.231 () {40 vars in 666 bytes} [Tue Apr 10 10:13:49 2018] GET / => generated 2027 bytes in 17 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /favicon.ico
+[pid: 27348|app: 0|req: 2/13] 222.178.10.231 () {40 vars in 641 bytes} [Tue Apr 10 10:13:49 2018] GET /favicon.ico => generated 2078 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /
+[pid: 27345|app: 0|req: 2/14] 60.191.38.78 () {34 vars in 505 bytes} [Tue Apr 10 10:22:57 2018] GET / => generated 2033 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+[pid: 27350|app: 0|req: 7/15] 222.178.10.231 () {44 vars in 828 bytes} [Tue Apr 10 10:25:27 2018] GET /api/articles?x=&y= => generated 43 bytes in 0 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 27350|app: 0|req: 8/16] 222.178.10.231 () {44 vars in 813 bytes} [Tue Apr 10 10:30:41 2018] GET /api/articles => generated 43 bytes in 1 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 27350|app: 0|req: 9/17] 222.178.10.231 () {46 vars in 844 bytes} [Tue Apr 10 10:36:59 2018] GET /api/articles => generated 43 bytes in 0 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 27350|app: 0|req: 10/18] 222.178.10.231 () {44 vars in 828 bytes} [Tue Apr 10 10:37:41 2018] GET /api/articles?x=&y= => generated 43 bytes in 0 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 27349|app: 0|req: 3/19] 222.178.10.231 () {44 vars in 828 bytes} [Tue Apr 10 10:37:48 2018] GET /api/articles?x=&y= => generated 43 bytes in 0 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 27350|app: 0|req: 11/20] 222.178.10.231 () {44 vars in 817 bytes} [Tue Apr 10 10:38:19 2018] GET /api/articles => generated 43 bytes in 0 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 27350|app: 0|req: 12/21] 222.178.10.231 () {44 vars in 817 bytes} [Tue Apr 10 10:39:21 2018] GET /api/articles => generated 43 bytes in 0 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 27350|app: 0|req: 13/22] 222.178.10.231 () {44 vars in 817 bytes} [Tue Apr 10 10:41:06 2018] GET /api/articles => generated 43 bytes in 0 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 27349|app: 0|req: 4/23] 222.178.10.231 () {44 vars in 817 bytes} [Tue Apr 10 10:41:11 2018] GET /api/articles => generated 43 bytes in 0 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 27346|app: 0|req: 1/24] 222.178.10.231 () {44 vars in 817 bytes} [Tue Apr 10 10:41:18 2018] GET /api/articles => generated 43 bytes in 10 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 27346|app: 0|req: 2/25] 222.178.10.231 () {44 vars in 817 bytes} [Tue Apr 10 10:41:38 2018] GET /api/articles => generated 43 bytes in 1 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 1)
+[pid: 27350|app: 0|req: 14/26] 222.178.10.231 () {44 vars in 817 bytes} [Tue Apr 10 10:41:47 2018] GET /api/articles => generated 43 bytes in 0 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 27347|app: 0|req: 3/27] 222.178.10.231 () {44 vars in 817 bytes} [Tue Apr 10 10:42:02 2018] GET /api/articles => generated 43 bytes in 1 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 27348|app: 0|req: 3/28] 222.178.10.231 () {44 vars in 817 bytes} [Tue Apr 10 10:42:08 2018] GET /api/articles => generated 43 bytes in 1 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 27350|app: 0|req: 15/29] 222.178.10.231 () {44 vars in 817 bytes} [Tue Apr 10 10:42:35 2018] GET /api/articles => generated 43 bytes in 0 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 1)
+[pid: 27349|app: 0|req: 5/30] 222.178.10.231 () {44 vars in 817 bytes} [Tue Apr 10 10:42:54 2018] GET /api/articles => generated 43 bytes in 0 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 27346|app: 0|req: 3/31] 222.178.10.231 () {44 vars in 817 bytes} [Tue Apr 10 10:43:26 2018] GET /api/articles => generated 43 bytes in 0 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 1)
+[pid: 27346|app: 0|req: 4/32] 222.178.10.231 () {44 vars in 817 bytes} [Tue Apr 10 10:43:57 2018] GET /api/articles => generated 43 bytes in 0 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 1)
+[pid: 27350|app: 0|req: 16/33] 222.178.10.231 () {44 vars in 817 bytes} [Tue Apr 10 10:44:20 2018] GET /api/articles => generated 43 bytes in 0 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 1)
+[pid: 27346|app: 0|req: 5/34] 222.178.10.231 () {44 vars in 817 bytes} [Tue Apr 10 10:44:31 2018] GET /api/articles => generated 43 bytes in 0 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 1)
+[pid: 27349|app: 0|req: 6/35] 222.178.10.231 () {44 vars in 817 bytes} [Tue Apr 10 10:44:43 2018] GET /api/articles => generated 43 bytes in 0 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 27346|app: 0|req: 6/36] 222.178.10.231 () {44 vars in 817 bytes} [Tue Apr 10 10:45:11 2018] GET /api/articles => generated 43 bytes in 0 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 1)
+[pid: 27350|app: 0|req: 17/37] 222.178.10.231 () {44 vars in 817 bytes} [Tue Apr 10 10:45:14 2018] GET /api/articles => generated 43 bytes in 0 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 1)
+[pid: 27346|app: 0|req: 7/38] 222.178.10.231 () {44 vars in 817 bytes} [Tue Apr 10 10:47:39 2018] GET /api/articles => generated 43 bytes in 0 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 1)
+[pid: 27350|app: 0|req: 18/39] 222.178.10.231 () {44 vars in 817 bytes} [Tue Apr 10 10:47:44 2018] GET /api/articles => generated 43 bytes in 0 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 1)
+Not Found: /
+[pid: 27346|app: 0|req: 8/40] 183.136.190.62 () {40 vars in 628 bytes} [Tue Apr 10 10:48:16 2018] GET / => generated 2035 bytes in 7 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+[pid: 27350|app: 0|req: 19/41] 222.178.10.231 () {44 vars in 817 bytes} [Tue Apr 10 10:48:29 2018] GET /api/articles => generated 43 bytes in 0 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 1)
+[pid: 27345|app: 0|req: 3/42] 222.178.10.231 () {44 vars in 817 bytes} [Tue Apr 10 10:48:48 2018] GET /api/articles => generated 43 bytes in 1 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 0)
+[pid: 27350|app: 0|req: 20/43] 222.178.10.231 () {46 vars in 843 bytes} [Tue Apr 10 10:51:13 2018] GET /api/articles => generated 43 bytes in 0 msecs (HTTP/1.1 200) 3 headers in 100 bytes (1 switches on core 1)
+Not Found: /
+[pid: 27350|app: 0|req: 21/44] 183.136.190.62 () {40 vars in 624 bytes} [Tue Apr 10 11:02:46 2018] GET / => generated 2031 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /
+[pid: 27349|app: 0|req: 7/45] 106.11.242.190 () {40 vars in 613 bytes} [Tue Apr 10 11:41:13 2018] GET / => generated 2027 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /
+[pid: 27350|app: 0|req: 22/46] 60.191.38.78 () {34 vars in 505 bytes} [Tue Apr 10 12:06:05 2018] GET / => generated 2033 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Invalid HTTP_HOST header: '_'. The domain name provided is not valid according to RFC 1034/1035.
+[pid: 27350|app: 0|req: 23/47] 47.97.85.75 () {26 vars in 267 bytes} [Tue Apr 10 14:22:05 2018] GET / => generated 53716 bytes in 41 msecs (HTTP/1.0 400) 1 headers in 53 bytes (1 switches on core 1)
+Invalid HTTP_HOST header: '_'. The domain name provided is not valid according to RFC 1034/1035.
+Not Found: /nmaplowercheck1523370125
+Not Found: /sdk
+[pid: 27349|app: 0|req: 8/48] 47.97.85.75 () {32 vars in 463 bytes} [Tue Apr 10 14:22:07 2018] GET /nmaplowercheck1523370125 => generated 2120 bytes in 10 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 27346|app: 0|req: 9/49] 47.97.85.75 () {34 vars in 451 bytes} [Tue Apr 10 14:22:07 2018] POST /sdk => generated 2058 bytes in 8 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 27350|app: 0|req: 24/50] 47.97.85.75 () {26 vars in 267 bytes} [Tue Apr 10 14:22:07 2018] GET / => generated 53716 bytes in 49 msecs (HTTP/1.0 400) 1 headers in 53 bytes (1 switches on core 0)
+Not Found: /
+Not Found: /HNAP1
+[pid: 27346|app: 0|req: 10/51] 47.97.85.75 () {28 vars in 293 bytes} [Tue Apr 10 14:22:07 2018] GET / => generated 2030 bytes in 7 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+[pid: 27347|app: 0|req: 4/52] 47.97.85.75 () {32 vars in 425 bytes} [Tue Apr 10 14:22:07 2018] GET /HNAP1 => generated 2063 bytes in 6 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 27350|app: 0|req: 25/53] 106.11.227.185 () {40 vars in 615 bytes} [Tue Apr 10 14:23:39 2018] GET / => generated 2029 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /favicon.ico
+[pid: 27349|app: 0|req: 9/54] 222.178.10.231 () {36 vars in 596 bytes} [Tue Apr 10 15:14:04 2018] GET /favicon.ico => generated 2078 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /favicon.ico
+[pid: 27350|app: 0|req: 26/55] 222.178.10.231 () {36 vars in 597 bytes} [Tue Apr 10 15:15:33 2018] GET /favicon.ico => generated 2078 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /favicon.ico
+[pid: 27350|app: 0|req: 27/56] 222.178.10.231 () {36 vars in 597 bytes} [Tue Apr 10 15:16:09 2018] GET /favicon.ico => generated 2078 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /
+[pid: 27350|app: 0|req: 28/57] 120.77.57.35 () {32 vars in 355 bytes} [Tue Apr 10 15:39:12 2018] GET / => generated 2035 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 27350|app: 0|req: 29/58] 59.110.6.177 () {32 vars in 353 bytes} [Tue Apr 10 16:20:31 2018] GET / => generated 2033 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /favicon.ico
+[pid: 27350|app: 0|req: 30/59] 222.178.10.231 () {36 vars in 597 bytes} [Tue Apr 10 16:21:47 2018] GET /favicon.ico => generated 2078 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /version.txt
+[pid: 27350|app: 0|req: 31/60] 103.45.107.152 () {36 vars in 452 bytes} [Tue Apr 10 16:28:48 2018] GET /version.txt => generated 2088 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Invalid HTTP_HOST header: '_'. The domain name provided is not valid according to RFC 1034/1035.
+[pid: 27350|app: 0|req: 32/61] 47.96.254.10 () {26 vars in 268 bytes} [Tue Apr 10 16:43:35 2018] GET / => generated 53717 bytes in 37 msecs (HTTP/1.0 400) 1 headers in 53 bytes (1 switches on core 0)
+Not Found: /
+[pid: 27350|app: 0|req: 33/62] 101.41.62.238 () {36 vars in 452 bytes} [Tue Apr 10 16:50:26 2018] GET / => generated 2027 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /
+[pid: 27350|app: 0|req: 34/63] 222.178.10.231 () {44 vars in 789 bytes} [Tue Apr 10 16:52:17 2018] GET / => generated 2027 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+...gracefully killing workers...
+Gracefully killing worker 1 (pid: 27345)...
+Gracefully killing worker 2 (pid: 27346)...
+Gracefully killing worker 3 (pid: 27347)...
+Gracefully killing worker 4 (pid: 27348)...
+Gracefully killing worker 5 (pid: 27349)...
+Gracefully killing worker 6 (pid: 27350)...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 6 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /home/django/proj
+closing all non-uwsgi socket fds > 2 (max_fd = 65535)...
+found fd 3 mapped to socket 0 (0:3031)
+running /usr/local/bin/uwsgi
+[uWSGI] getting INI configuration from uwsgi.ini
+*** Starting uWSGI 2.0.17 (64bit) on [Tue Apr 10 16:52:29 2018] ***
+compiled with version: 5.4.0 20160609 on 17 March 2018 02:58:33
+os: Linux-4.4.0-93-generic #116-Ubuntu SMP Fri Aug 11 21:17:51 UTC 2017
+nodename: iZwz9hegwjg73fgslzi6xvZ
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/django/proj
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/django/proj
+your processes number limit is 7857
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 0:3031 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.5.2 (default, Nov 23 2017, 16:37:01)  [GCC 5.4.0 20160609]
+Python main interpreter initialized at 0x1468c30
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 583408 bytes (569 KB) for 12 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x1468c30 pid: 1073 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 1073)
+spawned uWSGI worker 1 (pid: 29537, cores: 2)
+spawned uWSGI worker 2 (pid: 29538, cores: 2)
+spawned uWSGI worker 3 (pid: 29539, cores: 2)
+spawned uWSGI worker 4 (pid: 29540, cores: 2)
+spawned uWSGI worker 5 (pid: 29541, cores: 2)
+spawned uWSGI worker 6 (pid: 29542, cores: 2)
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 113, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "/usr/local/lib/python3.5/dist-packages/django/urls/resolvers.py", line 494, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/functional.py", line 36, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.5/dist-packages/django/urls/resolvers.py", line 536, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/functional.py", line 36, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.5/dist-packages/django/urls/resolvers.py", line 529, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 665, in exec_module
+  File "<frozen importlib._bootstrap>", line 222, in _call_with_frames_removed
+  File "./proj/urls.py", line 18, in <module>
+    from app.api import article
+  File "./app/api/article.py", line 3, in <module>
+    from bs4 import BeautifulSoup
+ImportError: No module named 'bs4'
+[pid: 29540|app: 0|req: 1/1] 222.178.10.231 () {46 vars in 820 bytes} [Tue Apr 10 16:52:30 2018] GET / => generated 110598 bytes in 93 msecs (HTTP/1.1 500) 4 headers in 130 bytes (1 switches on core 0)
+Internal Server Error: /api/article/index
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/deprecation.py", line 93, in __call__
+    response = self.process_request(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/middleware/common.py", line 60, in process_request
+    if self.should_redirect_with_slash(request):
+  File "/usr/local/lib/python3.5/dist-packages/django/middleware/common.py", line 78, in should_redirect_with_slash
+    not is_valid_path(request.path_info, urlconf) and
+  File "/usr/local/lib/python3.5/dist-packages/django/urls/base.py", line 155, in is_valid_path
+    resolve(path, urlconf)
+  File "/usr/local/lib/python3.5/dist-packages/django/urls/base.py", line 24, in resolve
+    return get_resolver(urlconf).resolve(path)
+  File "/usr/local/lib/python3.5/dist-packages/django/urls/resolvers.py", line 494, in resolve
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/functional.py", line 36, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.5/dist-packages/django/urls/resolvers.py", line 536, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/functional.py", line 36, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.5/dist-packages/django/urls/resolvers.py", line 529, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 665, in exec_module
+  File "<frozen importlib._bootstrap>", line 222, in _call_with_frames_removed
+  File "./proj/urls.py", line 18, in <module>
+    from app.api import article
+  File "./app/api/article.py", line 3, in <module>
+    from bs4 import BeautifulSoup
+ImportError: No module named 'bs4'
+[pid: 29540|app: 0|req: 2/2] 222.178.10.231 () {44 vars in 823 bytes} [Tue Apr 10 16:52:39 2018] GET /api/article/index => generated 126190 bytes in 80 msecs (HTTP/1.1 500) 1 headers in 63 bytes (1 switches on core 1)
+Internal Server Error: /api/article/index
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./app/api/article.py", line 10, in index
+    resp = json.load(f)
+  File "/usr/lib/python3.5/json/__init__.py", line 268, in load
+    parse_constant=parse_constant, object_pairs_hook=object_pairs_hook, **kw)
+  File "/usr/lib/python3.5/json/__init__.py", line 312, in loads
+    s.__class__.__name__))
+TypeError: the JSON object must be str, not 'bytes'
+[pid: 29537|app: 0|req: 1/3] 222.178.10.231 () {46 vars in 854 bytes} [Tue Apr 10 16:53:14 2018] GET /api/article/index => generated 73474 bytes in 89 msecs (HTTP/1.1 500) 4 headers in 129 bytes (1 switches on core 0)
+Not Found: /api/article/item
+[pid: 29537|app: 0|req: 2/4] 222.178.10.231 () {44 vars in 821 bytes} [Tue Apr 10 16:53:25 2018] GET /api/article/item => generated 2237 bytes in 5 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+[pid: 29542|app: 0|req: 1/5] 222.178.10.231 () {44 vars in 825 bytes} [Tue Apr 10 16:53:31 2018] GET /api/article/item/4 => generated 4 bytes in 306 msecs (HTTP/1.1 200) 3 headers in 107 bytes (1 switches on core 0)
+[pid: 29542|app: 0|req: 2/6] 222.178.10.231 () {44 vars in 837 bytes} [Tue Apr 10 16:53:46 2018] GET /api/article/item/8781609 => generated 6932 bytes in 506 msecs (HTTP/1.1 200) 3 headers in 110 bytes (1 switches on core 1)
+Internal Server Error: /api/article/index
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./app/api/article.py", line 10, in index
+    resp = json.load(f)
+  File "/usr/lib/python3.5/json/__init__.py", line 268, in load
+    parse_constant=parse_constant, object_pairs_hook=object_pairs_hook, **kw)
+  File "/usr/lib/python3.5/json/__init__.py", line 312, in loads
+    s.__class__.__name__))
+TypeError: the JSON object must be str, not 'bytes'
+[pid: 29537|app: 0|req: 3/7] 222.178.10.231 () {44 vars in 823 bytes} [Tue Apr 10 16:54:25 2018] GET /api/article/index => generated 73339 bytes in 49 msecs (HTTP/1.1 500) 4 headers in 129 bytes (1 switches on core 0)
+Internal Server Error: /api/article/index
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./app/api/article.py", line 10, in index
+    resp = json.load(f)
+  File "/usr/lib/python3.5/json/__init__.py", line 268, in load
+    parse_constant=parse_constant, object_pairs_hook=object_pairs_hook, **kw)
+  File "/usr/lib/python3.5/json/__init__.py", line 312, in loads
+    s.__class__.__name__))
+TypeError: the JSON object must be str, not 'bytes'
+[pid: 29537|app: 0|req: 4/8] 222.178.10.231 () {46 vars in 853 bytes} [Tue Apr 10 16:57:18 2018] GET /api/article/index => generated 73473 bytes in 50 msecs (HTTP/1.1 500) 4 headers in 129 bytes (1 switches on core 1)
+Not Found: /
+[pid: 29537|app: 0|req: 5/9] 14.116.137.166 () {42 vars in 783 bytes} [Tue Apr 10 17:01:09 2018] GET / => generated 2171 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /favicon.ico
+[pid: 29537|app: 0|req: 6/10] 14.116.137.166 () {42 vars in 772 bytes} [Tue Apr 10 17:01:10 2018] GET /favicon.ico => generated 2222 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Invalid HTTP_HOST header: '_'. The domain name provided is not valid according to RFC 1034/1035.
+[pid: 29537|app: 0|req: 7/11] 120.78.231.236 () {26 vars in 270 bytes} [Tue Apr 10 17:47:45 2018] GET / => generated 53719 bytes in 56 msecs (HTTP/1.0 400) 1 headers in 53 bytes (1 switches on core 0)
+Not Found: /
+[pid: 29537|app: 0|req: 8/12] 119.23.127.40 () {32 vars in 354 bytes} [Tue Apr 10 18:21:25 2018] GET / => generated 2177 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /
+[pid: 29537|app: 0|req: 9/13] 120.77.224.1 () {32 vars in 355 bytes} [Tue Apr 10 18:24:18 2018] GET / => generated 2179 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /phpmyadmin/scripts/setup.php
+[pid: 29537|app: 0|req: 10/14] 66.170.182.152 () {32 vars in 509 bytes} [Tue Apr 10 18:28:58 2018] GET /phpmyadmin/scripts/setup.php => generated 2276 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /phpMyAdmin/scripts/setup.php
+[pid: 29537|app: 0|req: 11/15] 66.170.182.152 () {32 vars in 509 bytes} [Tue Apr 10 18:28:59 2018] GET /phpMyAdmin/scripts/setup.php => generated 2276 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /pma/scripts/setup.php
+[pid: 29542|app: 0|req: 3/16] 66.170.182.152 () {32 vars in 495 bytes} [Tue Apr 10 18:29:00 2018] GET /pma/scripts/setup.php => generated 2255 bytes in 7 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /PhpMyAdmin/scripts/setup.php
+[pid: 29542|app: 0|req: 4/17] 66.170.182.152 () {32 vars in 509 bytes} [Tue Apr 10 18:29:01 2018] GET /PhpMyAdmin/scripts/setup.php => generated 2276 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /mysql/scripts/setup.php
+[pid: 29537|app: 0|req: 12/18] 66.170.182.152 () {32 vars in 499 bytes} [Tue Apr 10 18:29:01 2018] GET /mysql/scripts/setup.php => generated 2261 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /dbadmin/scripts/setup.php
+[pid: 29537|app: 0|req: 13/19] 66.170.182.152 () {32 vars in 503 bytes} [Tue Apr 10 18:29:02 2018] GET /dbadmin/scripts/setup.php => generated 2267 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /admin/scripts/setup.php
+[pid: 29542|app: 0|req: 5/20] 66.170.182.152 () {32 vars in 499 bytes} [Tue Apr 10 18:29:03 2018] GET /admin/scripts/setup.php => generated 3993 bytes in 7 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /phpMyAdmin/_scripts/setup.php
+[pid: 29542|app: 0|req: 6/21] 66.170.182.152 () {32 vars in 511 bytes} [Tue Apr 10 18:29:04 2018] GET /phpMyAdmin/_scripts/setup.php => generated 2279 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /phpmyadmin/_scripts/setup.php
+[pid: 29537|app: 0|req: 14/22] 66.170.182.152 () {32 vars in 511 bytes} [Tue Apr 10 18:29:05 2018] GET /phpmyadmin/_scripts/setup.php => generated 2279 bytes in 5 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /phpMyAdmin2/scripts/setup.php
+[pid: 29537|app: 0|req: 15/23] 66.170.182.152 () {32 vars in 511 bytes} [Tue Apr 10 18:29:05 2018] GET /phpMyAdmin2/scripts/setup.php => generated 2279 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /phpMyAdmin1/scripts/setup.php
+[pid: 29542|app: 0|req: 7/24] 66.170.182.152 () {32 vars in 511 bytes} [Tue Apr 10 18:29:06 2018] GET /phpMyAdmin1/scripts/setup.php => generated 2279 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /scripts/setup.php
+[pid: 29542|app: 0|req: 8/25] 66.170.182.152 () {32 vars in 487 bytes} [Tue Apr 10 18:29:07 2018] GET /scripts/setup.php => generated 2243 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /php-my-admin/scripts/setup.php
+[pid: 29537|app: 0|req: 16/26] 66.170.182.152 () {32 vars in 513 bytes} [Tue Apr 10 18:29:08 2018] GET /php-my-admin/scripts/setup.php => generated 2282 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /phpmyadmin/scripts/_setup.php
+[pid: 29537|app: 0|req: 17/27] 66.170.182.152 () {32 vars in 511 bytes} [Tue Apr 10 18:29:08 2018] GET /phpmyadmin/scripts/_setup.php => generated 2279 bytes in 5 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /phpMyAdmin/scripts/_setup.php
+[pid: 29542|app: 0|req: 9/28] 66.170.182.152 () {32 vars in 511 bytes} [Tue Apr 10 18:29:09 2018] GET /phpMyAdmin/scripts/_setup.php => generated 2279 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /setup.php
+[pid: 29542|app: 0|req: 10/29] 66.170.182.152 () {32 vars in 471 bytes} [Tue Apr 10 18:29:10 2018] GET /setup.php => generated 2219 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /azenv.php
+[pid: 29537|app: 0|req: 18/30] 95.213.187.189 () {40 vars in 694 bytes} [Tue Apr 10 18:59:51 2018] POST /azenv.php?auth=152338679169&a=PSCN&i=661423175&p=80 => generated 2282 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /
+[pid: 29537|app: 0|req: 19/31] 158.85.81.122 () {28 vars in 292 bytes} [Tue Apr 10 20:37:25 2018] GET / => generated 2171 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 29537|app: 0|req: 20/32] 165.227.37.246 () {34 vars in 433 bytes} [Tue Apr 10 20:48:56 2018] HEAD / => generated 2172 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /
+[pid: 29537|app: 0|req: 21/33] 60.191.38.78 () {34 vars in 505 bytes} [Tue Apr 10 21:55:02 2018] GET / => generated 2177 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /templates/new/client/logo.png
+[pid: 29537|app: 0|req: 22/34] 139.59.112.185 () {30 vars in 454 bytes} [Tue Apr 10 22:07:13 2018] HEAD /templates/new/client/logo.png => generated 2278 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /
+[pid: 29537|app: 0|req: 23/35] 169.54.233.121 () {28 vars in 297 bytes} [Tue Apr 10 22:18:39 2018] GET / => generated 2175 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 29537|app: 0|req: 24/36] 60.191.38.78 () {34 vars in 505 bytes} [Tue Apr 10 22:56:35 2018] GET / => generated 2177 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /
+[pid: 29537|app: 0|req: 25/37] 185.158.132.221 () {38 vars in 641 bytes} [Tue Apr 10 23:08:39 2018] GET / => generated 2171 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Invalid HTTP_HOST header: '_'. The domain name provided is not valid according to RFC 1034/1035.
+[pid: 29537|app: 0|req: 26/38] 196.52.43.127 () {30 vars in 364 bytes} [Tue Apr 10 23:37:46 2018] GET / => generated 54021 bytes in 42 msecs (HTTP/1.0 400) 1 headers in 53 bytes (1 switches on core 1)
+Not Found: /
+[pid: 29537|app: 0|req: 27/39] 106.120.160.109 () {38 vars in 615 bytes} [Tue Apr 10 23:56:16 2018] GET / => generated 2175 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 29537|app: 0|req: 28/40] 106.120.161.68 () {38 vars in 622 bytes} [Tue Apr 10 23:56:16 2018] GET / => generated 2179 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /
+[pid: 29542|app: 0|req: 11/41] 220.181.132.193 () {40 vars in 700 bytes} [Tue Apr 10 23:56:33 2018] GET / => generated 2175 bytes in 6 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 29542|app: 0|req: 12/42] 171.13.14.147 () {44 vars in 769 bytes} [Tue Apr 10 23:56:49 2018] GET / => generated 2179 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /
+[pid: 29537|app: 0|req: 29/43] 101.199.108.56 () {40 vars in 703 bytes} [Tue Apr 10 23:56:53 2018] GET / => generated 2179 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 29537|app: 0|req: 30/44] 101.199.108.54 () {40 vars in 699 bytes} [Tue Apr 10 23:57:00 2018] GET / => generated 2175 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /
+[pid: 29538|app: 0|req: 1/45] 182.118.20.143 () {44 vars in 766 bytes} [Tue Apr 10 23:57:30 2018] GET / => generated 2175 bytes in 33 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 29538|app: 0|req: 2/46] 106.120.161.66 () {38 vars in 606 bytes} [Tue Apr 10 23:57:38 2018] GET / => generated 2171 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /
+[pid: 29537|app: 0|req: 31/47] 171.13.14.152 () {44 vars in 761 bytes} [Tue Apr 10 23:58:20 2018] GET / => generated 2171 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 29537|app: 0|req: 32/48] 114.215.45.79 () {32 vars in 353 bytes} [Wed Apr 11 00:33:56 2018] GET / => generated 2176 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /
+[pid: 29537|app: 0|req: 33/49] 139.199.63.33 () {36 vars in 444 bytes} [Wed Apr 11 00:56:48 2018] GET / => generated 2179 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 29537|app: 0|req: 34/50] 60.191.38.78 () {34 vars in 505 bytes} [Wed Apr 11 02:16:39 2018] GET / => generated 2177 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /favicon.ico
+[pid: 29537|app: 0|req: 35/51] 14.108.25.220 () {42 vars in 931 bytes} [Wed Apr 11 02:49:40 2018] GET /favicon.ico => generated 2222 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 29537|app: 0|req: 36/52] 60.191.38.78 () {34 vars in 505 bytes} [Wed Apr 11 03:32:41 2018] GET / => generated 2177 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /
+[pid: 29537|app: 0|req: 37/53] 141.212.122.32 () {34 vars in 382 bytes} [Wed Apr 11 03:33:30 2018] GET / => generated 2174 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 29537|app: 0|req: 38/54] 106.11.242.42 () {40 vars in 616 bytes} [Wed Apr 11 03:42:59 2018] GET / => generated 2175 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /azenv.php
+[pid: 29537|app: 0|req: 39/55] 5.178.86.78 () {40 vars in 692 bytes} [Wed Apr 11 03:45:01 2018] POST /azenv.php?auth=152341830197&a=PSCN&i=661423175&p=80 => generated 2282 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 29537|app: 0|req: 40/56] 148.62.14.156 () {36 vars in 561 bytes} [Wed Apr 11 04:15:20 2018] GET / => generated 2171 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /
+[pid: 29537|app: 0|req: 41/57] 120.55.81.217 () {32 vars in 357 bytes} [Wed Apr 11 04:29:29 2018] GET / => generated 2180 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /favicon.ico
+[pid: 29537|app: 0|req: 42/58] 222.178.10.231 () {36 vars in 597 bytes} [Wed Apr 11 04:31:49 2018] GET /favicon.ico => generated 2222 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /
+[pid: 29537|app: 0|req: 43/59] 106.11.227.233 () {40 vars in 621 bytes} [Wed Apr 11 06:37:28 2018] GET / => generated 2179 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 29537|app: 0|req: 44/60] 222.178.10.229 () {40 vars in 687 bytes} [Wed Apr 11 06:39:02 2018] GET / => generated 2171 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /favicon.ico
+[pid: 29537|app: 0|req: 45/61] 222.178.10.229 () {40 vars in 662 bytes} [Wed Apr 11 06:39:02 2018] GET /favicon.ico => generated 2222 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 29542|app: 0|req: 13/62] 222.178.10.229 () {40 vars in 687 bytes} [Wed Apr 11 06:39:22 2018] GET / => generated 2171 bytes in 5 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /cache/global/img/gs.gif
+[pid: 29542|app: 0|req: 14/63] 80.82.78.50 () {32 vars in 420 bytes} [Wed Apr 11 07:36:53 2018] GET /cache/global/img/gs.gif => generated 2261 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /
+[pid: 29537|app: 0|req: 46/64] 114.215.252.225 () {32 vars in 358 bytes} [Wed Apr 11 07:49:09 2018] GET / => generated 2179 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /
+[pid: 29537|app: 0|req: 47/65] 47.93.112.232 () {32 vars in 353 bytes} [Wed Apr 11 09:29:35 2018] GET / => generated 2177 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 29537|app: 0|req: 48/66] 14.116.137.166 () {42 vars in 783 bytes} [Wed Apr 11 09:40:00 2018] GET / => generated 2171 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /favicon.ico
+[pid: 29537|app: 0|req: 49/67] 14.116.137.166 () {42 vars in 772 bytes} [Wed Apr 11 09:40:00 2018] GET /favicon.ico => generated 2222 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 29542|app: 0|req: 15/68] 61.151.225.155 () {36 vars in 558 bytes} [Wed Apr 11 09:41:00 2018] GET / => generated 2171 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /api/leetcode/lists
+[pid: 29542|app: 0|req: 16/69] 14.116.137.166 () {42 vars in 819 bytes} [Wed Apr 11 09:41:35 2018] GET /api/leetcode/lists => generated 2243 bytes in 5 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /favicon.ico
+[pid: 29537|app: 0|req: 50/70] 14.116.137.166 () {42 vars in 790 bytes} [Wed Apr 11 09:41:35 2018] GET /favicon.ico => generated 2222 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /api/leetcode/lists
+[pid: 29537|app: 0|req: 51/71] 61.151.226.77 () {36 vars in 622 bytes} [Wed Apr 11 09:42:35 2018] GET /api/leetcode/lists => generated 2243 bytes in 5 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /favicon.ico
+[pid: 29537|app: 0|req: 52/72] 222.178.10.231 () {36 vars in 596 bytes} [Wed Apr 11 10:18:29 2018] GET /favicon.ico => generated 2222 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /robots.txt
+[pid: 29537|app: 0|req: 53/73] 46.4.80.195 () {34 vars in 441 bytes} [Wed Apr 11 10:19:58 2018] GET /robots.txt => generated 2223 bytes in 5 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /v/Z雪球球球
+[pid: 29537|app: 0|req: 54/74] 46.4.80.195 () {34 vars in 662 bytes} [Wed Apr 11 10:20:00 2018] GET /v/Z%E9%9B%AA%E7%90%83%E7%90%83%E7%90%83 => generated 2262 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /azenv.php
+[pid: 29537|app: 0|req: 55/75] 95.213.187.186 () {40 vars in 695 bytes} [Wed Apr 11 11:44:46 2018] POST /azenv.php?auth=152344708625&a=PSCN&i=661423175&p=80 => generated 2282 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 29537|app: 0|req: 56/76] 101.41.62.238 () {36 vars in 452 bytes} [Wed Apr 11 11:47:24 2018] GET / => generated 2171 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /favicon.ico
+[pid: 29537|app: 0|req: 57/77] 222.178.10.231 () {36 vars in 597 bytes} [Wed Apr 11 12:03:01 2018] GET /favicon.ico => generated 2222 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /favicon.ico
+[pid: 29537|app: 0|req: 58/78] 222.178.10.231 () {36 vars in 597 bytes} [Wed Apr 11 12:03:03 2018] GET /favicon.ico => generated 2222 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /
+[pid: 29537|app: 0|req: 59/79] 106.11.225.242 () {40 vars in 613 bytes} [Wed Apr 11 12:08:53 2018] GET / => generated 2171 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 29537|app: 0|req: 60/80] 106.11.225.205 () {40 vars in 615 bytes} [Wed Apr 11 13:44:20 2018] GET / => generated 2173 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /favicon.ico
+[pid: 29537|app: 0|req: 61/81] 222.178.10.231 () {36 vars in 597 bytes} [Wed Apr 11 14:13:13 2018] GET /favicon.ico => generated 2222 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /currentsetting.htm
+[pid: 29537|app: 0|req: 62/82] 114.221.125.12 () {30 vars in 364 bytes} [Wed Apr 11 14:38:05 2018] GET /currentsetting.htm => generated 2246 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /
+[pid: 29537|app: 0|req: 63/83] 114.215.45.79 () {32 vars in 351 bytes} [Wed Apr 11 16:26:38 2018] GET / => generated 2174 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Invalid HTTP_HOST header: '_'. The domain name provided is not valid according to RFC 1034/1035.
+[pid: 29537|app: 0|req: 64/84] 47.52.210.94 () {26 vars in 268 bytes} [Wed Apr 11 16:30:20 2018] GET / => generated 53717 bytes in 37 msecs (HTTP/1.0 400) 1 headers in 53 bytes (1 switches on core 1)
+Not Found: /
+[pid: 29537|app: 0|req: 65/85] 120.26.211.148 () {32 vars in 355 bytes} [Wed Apr 11 18:36:18 2018] GET / => generated 2177 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 29537|app: 0|req: 66/86] 168.235.93.142 () {40 vars in 658 bytes} [Wed Apr 11 20:25:26 2018] GET / => generated 2174 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /azenv.php
+[pid: 29537|app: 0|req: 67/87] 95.213.187.187 () {40 vars in 695 bytes} [Wed Apr 11 20:49:34 2018] POST /azenv.php?auth=152347977487&a=PSCN&i=661423175&p=80 => generated 2282 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 29537|app: 0|req: 68/88] 207.46.13.238 () {42 vars in 679 bytes} [Wed Apr 11 21:03:26 2018] GET / => generated 2171 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /user/soapCaller.bs
+[pid: 29537|app: 0|req: 69/89] 192.228.100.250 () {38 vars in 483 bytes} [Wed Apr 11 21:31:30 2018] GET /user/soapCaller.bs => generated 2246 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /robots.txt
+[pid: 29537|app: 0|req: 70/90] 5.45.207.50 () {36 vars in 477 bytes} [Wed Apr 11 22:12:44 2018] GET /robots.txt => generated 2219 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /
+[pid: 29537|app: 0|req: 71/91] 5.45.207.50 () {38 vars in 493 bytes} [Wed Apr 11 22:12:47 2018] GET / => generated 2171 bytes in 3 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 29537|app: 0|req: 72/92] 95.181.179.62 () {40 vars in 665 bytes} [Wed Apr 11 23:08:51 2018] GET / => generated 2171 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /
+[pid: 29537|app: 0|req: 73/93] 109.184.14.158 () {34 vars in 515 bytes} [Thu Apr 12 00:00:49 2018] GET / => generated 2175 bytes in 4 msecs (HTTP/1.0 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 29537|app: 0|req: 74/94] 109.184.14.158 () {34 vars in 515 bytes} [Thu Apr 12 00:00:49 2018] GET / => generated 2175 bytes in 4 msecs (HTTP/1.0 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /
+[pid: 29542|app: 0|req: 17/95] 109.184.14.158 () {34 vars in 515 bytes} [Thu Apr 12 00:00:50 2018] GET / => generated 2175 bytes in 4 msecs (HTTP/1.0 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 29542|app: 0|req: 18/96] 47.92.2.1 () {32 vars in 347 bytes} [Thu Apr 12 00:36:12 2018] GET / => generated 2175 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /favicon.ico
+[pid: 29537|app: 0|req: 75/97] 222.178.10.231 () {36 vars in 597 bytes} [Thu Apr 12 01:32:52 2018] GET /favicon.ico => generated 2222 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 29537|app: 0|req: 76/98] 222.178.10.231 () {44 vars in 789 bytes} [Thu Apr 12 01:40:25 2018] GET / => generated 2171 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /favicon.ico
+[pid: 29537|app: 0|req: 77/99] 222.178.10.231 () {44 vars in 764 bytes} [Thu Apr 12 01:40:26 2018] GET /favicon.ico => generated 2222 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+...gracefully killing workers...
+Gracefully killing worker 5 (pid: 29541)...
+Gracefully killing worker 2 (pid: 29538)...
+Gracefully killing worker 3 (pid: 29539)...
+Gracefully killing worker 4 (pid: 29540)...
+Gracefully killing worker 6 (pid: 29542)...
+Gracefully killing worker 1 (pid: 29537)...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 6 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /home/django/proj
+closing all non-uwsgi socket fds > 2 (max_fd = 65535)...
+found fd 3 mapped to socket 0 (0:3031)
+running /usr/local/bin/uwsgi
+[uWSGI] getting INI configuration from uwsgi.ini
+*** Starting uWSGI 2.0.17 (64bit) on [Thu Apr 12 01:40:38 2018] ***
+compiled with version: 5.4.0 20160609 on 17 March 2018 02:58:33
+os: Linux-4.4.0-93-generic #116-Ubuntu SMP Fri Aug 11 21:17:51 UTC 2017
+nodename: iZwz9hegwjg73fgslzi6xvZ
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 1
+current working directory: /home/django/proj
+detected binary path: /usr/local/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /home/django/proj
+your processes number limit is 7857
+your memory page size is 4096 bytes
+detected max file descriptor number: 65535
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 0:3031 fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.5.2 (default, Nov 23 2017, 16:37:01)  [GCC 5.4.0 20160609]
+Python main interpreter initialized at 0xe64c30
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 583408 bytes (569 KB) for 12 cores
+*** Operational MODE: preforking+threaded ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0xe64c30 pid: 1073 (default app)
+uWSGI running as root, you can use --uid/--gid/--chroot options
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 1073)
+spawned uWSGI worker 1 (pid: 7824, cores: 2)
+spawned uWSGI worker 2 (pid: 7825, cores: 2)
+spawned uWSGI worker 3 (pid: 7826, cores: 2)
+spawned uWSGI worker 4 (pid: 7827, cores: 2)
+spawned uWSGI worker 5 (pid: 7828, cores: 2)
+spawned uWSGI worker 6 (pid: 7829, cores: 2)
+Not Found: /
+[pid: 7827|app: 0|req: 1/1] 222.178.10.231 () {46 vars in 820 bytes} [Thu Apr 12 01:40:39 2018] GET / => generated 2440 bytes in 118 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /api/articles
+[pid: 7827|app: 0|req: 2/2] 222.178.10.231 () {44 vars in 813 bytes} [Thu Apr 12 01:40:45 2018] GET /api/articles => generated 2494 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /api/articles/index
+[pid: 7824|app: 0|req: 1/3] 222.178.10.231 () {44 vars in 825 bytes} [Thu Apr 12 01:40:54 2018] GET /api/articles/index => generated 2512 bytes in 73 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Internal Server Error: /api/article/index
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./app/api/article.py", line 10, in index
+    resp = json.load(f)
+  File "/usr/lib/python3.5/json/__init__.py", line 268, in load
+    parse_constant=parse_constant, object_pairs_hook=object_pairs_hook, **kw)
+  File "/usr/lib/python3.5/json/__init__.py", line 312, in loads
+    s.__class__.__name__))
+TypeError: the JSON object must be str, not 'bytes'
+[pid: 7824|app: 0|req: 2/4] 222.178.10.231 () {44 vars in 823 bytes} [Thu Apr 12 01:41:07 2018] GET /api/article/index => generated 73339 bytes in 55 msecs (HTTP/1.1 500) 4 headers in 129 bytes (1 switches on core 1)
+Not Found: /api/leetcode/all
+[pid: 7824|app: 0|req: 3/5] 222.178.10.231 () {44 vars in 821 bytes} [Thu Apr 12 01:41:27 2018] GET /api/leetcode/all => generated 2506 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /robots.txt
+[pid: 7829|app: 0|req: 1/6] 5.45.207.50 () {38 vars in 521 bytes} [Thu Apr 12 01:41:35 2018] GET /robots.txt => generated 2496 bytes in 72 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+[pid: 7824|app: 0|req: 4/7] 222.178.10.231 () {44 vars in 839 bytes} [Thu Apr 12 01:41:35 2018] GET /api/leetcode/question_all => generated 297826 bytes in 34 msecs (HTTP/1.1 200) 3 headers in 104 bytes (1 switches on core 1)
+Not Found: /robots.txt
+[pid: 7829|app: 0|req: 2/8] 213.180.203.39 () {36 vars in 484 bytes} [Thu Apr 12 01:41:35 2018] GET /robots.txt => generated 2492 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Not Found: /
+[pid: 7824|app: 0|req: 5/9] 5.45.207.50 () {40 vars in 537 bytes} [Thu Apr 12 01:41:38 2018] GET / => generated 2448 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Not Found: /
+[pid: 7829|app: 0|req: 3/10] 213.180.203.39 () {40 vars in 566 bytes} [Thu Apr 12 01:41:39 2018] GET / => generated 2444 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
+Internal Server Error: /api/leetcode/question/two-sum
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./app/api/leetcode.py", line 53, in question
+    conf = json.load(f)
+  File "/usr/lib/python3.5/json/__init__.py", line 268, in load
+    parse_constant=parse_constant, object_pairs_hook=object_pairs_hook, **kw)
+  File "/usr/lib/python3.5/json/__init__.py", line 312, in loads
+    s.__class__.__name__))
+TypeError: the JSON object must be str, not 'bytes'
+[pid: 7824|app: 0|req: 6/11] 222.178.10.231 () {44 vars in 847 bytes} [Thu Apr 12 01:41:49 2018] GET /api/leetcode/question/two-sum => generated 70500 bytes in 43 msecs (HTTP/1.1 500) 4 headers in 129 bytes (1 switches on core 1)
+Not Found: /api/leetcode/que
+[pid: 7829|app: 0|req: 4/12] 222.178.10.231 () {44 vars in 821 bytes} [Thu Apr 12 01:41:55 2018] GET /api/leetcode/que => generated 2506 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 1)
+Internal Server Error: /api/leetcode/question/two-sum
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./app/api/leetcode.py", line 53, in question
+    conf = json.load(f)
+  File "/usr/lib/python3.5/json/__init__.py", line 268, in load
+    parse_constant=parse_constant, object_pairs_hook=object_pairs_hook, **kw)
+  File "/usr/lib/python3.5/json/__init__.py", line 312, in loads
+    s.__class__.__name__))
+TypeError: the JSON object must be str, not 'bytes'
+[pid: 7824|app: 0|req: 7/13] 222.178.10.231 () {44 vars in 847 bytes} [Thu Apr 12 01:42:12 2018] GET /api/leetcode/question/two-sum => generated 70500 bytes in 46 msecs (HTTP/1.1 500) 4 headers in 129 bytes (1 switches on core 0)
+Internal Server Error: /api/leetcode/question/two-sum
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 35, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 128, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "./app/api/leetcode.py", line 53, in question
+    conf = json.load(f)
+  File "/usr/lib/python3.5/json/__init__.py", line 268, in load
+    parse_constant=parse_constant, object_pairs_hook=object_pairs_hook, **kw)
+  File "/usr/lib/python3.5/json/__init__.py", line 312, in loads
+    s.__class__.__name__))
+TypeError: the JSON object must be str, not 'bytes'
+[pid: 7824|app: 0|req: 8/14] 222.178.10.231 () {46 vars in 878 bytes} [Thu Apr 12 01:42:45 2018] GET /api/leetcode/question/two-sum => generated 70635 bytes in 44 msecs (HTTP/1.1 500) 4 headers in 129 bytes (1 switches on core 1)
+Not Found: /
+[pid: 7824|app: 0|req: 9/15] 222.178.10.231 () {44 vars in 789 bytes} [Thu Apr 12 02:14:33 2018] GET / => generated 2440 bytes in 4 msecs (HTTP/1.1 404) 3 headers in 102 bytes (1 switches on core 0)
