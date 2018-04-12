@@ -23,5 +23,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/article/index', article.index),
     path('api/article/item/<int:article_id>', article.item),
-    path('api/leetcode/lists', leetcode.lists),
+    path('api/leetcode/question_all', leetcode.question_all),
+    path('api/leetcode/question/<str:title_slug>', leetcode.question),
+    # path('api/leetcode/question/<int:question_id>', leetcode.question)
 ]

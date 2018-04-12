@@ -1,5 +1,7 @@
 {"url": {
     "problemAll": "https://leetcode-cn.com/api/problems/all/",
-    "title_translations": "https://leetcode-cn.com/graphql?query=query%20getQuestionTranslation(%24lang%3A%20String)%20%7B%0A%20%20translations%3A%20allAppliedQuestionTranslations(lang%3A%20%24lang)%20%7B%0A%20%20%20%20title%0A%20%20%20%20question%20%7B%0A%20%20%20%20%20%20questionId%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0A&operationName=getQuestionTranslation&variables=%7B%7D"
+    "title_translations": "https://leetcode-cn.com/graphql?query=query%20getQuestionTranslation($lang:%20String)%20{%20translations:%20allAppliedQuestionTranslations(lang:%20$lang)%20{%20title%20question%20{%20questionId%20}%20}%20}%20&operationName=getQuestionTranslation&variables={}",
+    "questionItem": "https://leetcode-cn.com/graphql?query=query getQuestionDetail($titleSlug: String!) { isCurrentUserAuthenticated question(titleSlug: $titleSlug) { questionId questionFrontendId questionTitle translatedTitle questionTitleSlug content translatedContent difficulty stats contributors similarQuestions discussUrl mysqlSchemas randomQuestionUrl sessionId categoryTitle submitUrl interpretUrl codeDefinition sampleTestCase enableTestMode metaData enableRunCode enableSubmit judgerAvailable infoVerified envInfo urlManager article questionDetailUrl discussCategoryId discussSolutionCategoryId libraryUrl companyTags { name slug translatedName } topicTags { name slug translatedName } } interviewed { interviewedUrl companies { id name slug } timeOptions { id name } stageOptions { id name } } subscribeUrl isPremium loginUrl } &operationName=getQuestionDetail&variables=",
+    "solution": "https://leetcode.com/problems/api/"
   }
 }

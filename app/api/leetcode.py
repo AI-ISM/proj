@@ -4,7 +4,7 @@ from django.http import HttpResponse
 import os
 
 
-def lists(requset):
+def question_all(requset):
     filename = 'app/static/json/questionsAll.json'
     confname = 'app/static/json/leetcode_conf.json'
 
@@ -31,5 +31,31 @@ def lists(requset):
         # 若不存在list则生成该文件
         with open(filename, "w") as f:
             json.dump(response, f)
+    return HttpResponse(json.dumps(response), content_type="application/json")
+
+
+# 根据question_id检索返回数据
+# def question(request, question_id):
+#     confname = 'app/static/json/leetcode_conf.json'
+#     with open(confname, 'rb') as f:
+#         conf = json.load(f)
+#         question_url = conf['url']['questionItem'] + '{"titleSlug": "' + title_slug + '"}'
+#
+#     response = requests.get(question_url).json()['data']['question']
+#
+#     return HttpResponse(json.dumps(response), content_type="application/json")
+
+
+# 根据titile_slug检索返回数据
+def question(request, title_slug):
+    confname = 'app/static/json/leetcode_conf.json'
+    with open(confname, 'rb') as f:
+        conf = json.load(f)
+        question_url = conf['url']['questionItem'] + '{"titleSlug": "' + title_slug + '"}'
+        solution_url = conf['url']['solution'] + title_slug + "/solution/"
+
+    response = requests.get(question_url).json()['data']['question']
+    # response中添加solution
+    response['solution'] = requests.get(solution_url).json()['solutionHTML']
     return HttpResponse(json.dumps(response), content_type="application/json")
 
