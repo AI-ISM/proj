@@ -15,15 +15,19 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from app.api import article
-from app.api import leetcode
+from django.conf.urls import url, include
+
+from django.views.generic import TemplateView
 
 
+# urlpatterns = [
+#     path('admin/', admin.site.urls),
+#     path('go', TemplateView.as_view(template_name="index.html")),
+# ]
+
+app_name = 'proj'
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api/article/index', article.index),
-    path('api/article/item/<int:article_id>', article.item),
-    path('api/leetcode/question_all', leetcode.question_all),
-    path('api/leetcode/question/<str:title_slug>', leetcode.question),
-    # path('api/leetcode/question/<int:question_id>', leetcode.question)
+    path('api/', include('proj.api', namespace='api')),
+    path('', TemplateView.as_view(template_name="index.html")),
 ]

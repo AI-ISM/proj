@@ -54,7 +54,8 @@ ROOT_URLCONF = 'proj.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        # 'DIRS': [],
+        'DIRS': ['appVue/dist'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -117,4 +118,8 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.0/howto/static-files/
 
+# Add for vuejs
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, "appVue/dist/static"),
+]
 STATIC_URL = '/static/'
