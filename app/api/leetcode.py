@@ -12,7 +12,7 @@ def question_all(requset):
         with open(filename) as f:
             response = json.loads(f.read())
     else:
-        with open(confname, 'rb') as f:
+        with open(confname, encoding='utf-8') as f:
             conf = json.load(f)
         problem_url = conf['url']['problemAll']
         title_url = conf['url']['title_translations']
@@ -34,22 +34,10 @@ def question_all(requset):
     return HttpResponse(json.dumps(response), content_type="application/json")
 
 
-# 根据question_id检索返回数据
-# def question(request, question_id):
-#     confname = 'app/static/json/leetcode_conf.json'
-#     with open(confname, 'rb') as f:
-#         conf = json.load(f)
-#         question_url = conf['url']['questionItem'] + '{"titleSlug": "' + title_slug + '"}'
-#
-#     response = requests.get(question_url).json()['data']['question']
-#
-#     return HttpResponse(json.dumps(response), content_type="application/json")
-
-
 # 根据titile_slug检索返回数据
 def question(request, title_slug):
     confname = 'app/static/json/leetcode_conf.json'
-    with open(confname, 'rb') as f:
+    with open(confname, encoding='utf-8') as f:
         conf = json.load(f)
         question_url = conf['url']['questionItem'] + '{"titleSlug": "' + title_slug + '"}'
         solution_url = conf['url']['solution'] + title_slug + "/solution/"
